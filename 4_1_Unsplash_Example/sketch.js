@@ -1,6 +1,6 @@
 ////// SET GLOBAL VARIABLES //////
 //--- REQUEST
-var key = 'DuMOS0sz2RObRmr8huQakm4SJfCg9qfQeS8LuZEtIwk';
+var key = '';
 var searchTerm = 'flag';
 var numImages = 8;
 var url = 'https://api.unsplash.com/search/photos?page=1&query=' + searchTerm + '&client_id=' + key;

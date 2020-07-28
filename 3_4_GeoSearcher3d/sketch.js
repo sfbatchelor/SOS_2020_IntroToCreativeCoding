@@ -101,9 +101,9 @@ async function setup() {
 
     createCanvas(1080, 1080, WEBGL);
     pg = createGraphics(1080, 1080, WEBGL);
-// uncomment to render the date from the url instead of the .json file
-    //await loadJSON(fbUrl, gotData);
-    loadData();
+// uncomment to render the date from the url instead of the .json file or vice versa
+    await loadJSON(fbUrl, gotData);
+    //loadData();
     createSliders();
     translate(width/2., height/2.);
     imageMode(CENTER);
