@@ -1,6 +1,6 @@
 // SET URLs BASED ON INPUTS
-//let url = "https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v11/static/-0.12,51.5,13,0,0/1024x512?access_token=pk.eyJ1Ijoic2ZiYXRjaGVsb3IiLCJhIjoiY2tjZDdmZmNvMGJ1YjJxcDIyc2NtMnJheCJ9.IF6EZOAWqwqcbmVj_Hx-NQ"
-let url = "https://api.mapbox.com/styles/v1/mapbox/dark-v10/static/0,0,1,0,0/1024x512?access_token=pk.eyJ1Ijoic2ZiYXRjaGVsb3IiLCJhIjoiY2tjZDdmZmNvMGJ1YjJxcDIyc2NtMnJheCJ9.IF6EZOAWqwqcbmVj_Hx-NQ"
+//let url = "https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v11/static/-0.12,51.5,13,0,0/1024x512?access_token="
+let url = "https://api.mapbox.com/styles/v1/mapbox/dark-v10/static/0,0,1,0,0/1024x512?access_token="
 let zoom = 1.0;
 //london
 let londonLat = 51.5074;

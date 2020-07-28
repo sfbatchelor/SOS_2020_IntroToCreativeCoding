@@ -1,6 +1,6 @@
 ////// SET GLOBAL VARIABLES //////
 //--- REQUEST
-var key = 'DuMOS0sz2RObRmr8huQakm4SJfCg9qfQeS8LuZEtIwk';
+var key = '';
 var searchTerm = 'design';
 var pages = 9;
 var currentPage = 0;

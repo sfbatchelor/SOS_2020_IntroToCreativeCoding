@@ -1,5 +1,5 @@
 // SET GLOBAL VARIABLES
-var key = 'dsmqvW3GMsp2GJ4mho31MPjGJxxGNdD2';
+var key = '';
 var searchTerm = 'design';
 var articles;
 var headline = '';

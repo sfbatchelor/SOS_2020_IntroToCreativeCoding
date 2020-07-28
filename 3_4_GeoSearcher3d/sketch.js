@@ -3,9 +3,9 @@
 let placeName = 'hospital';
 let pages = 15;
 let itr = 0;
-let fbUrl = "https://graph.facebook.com/v7.0/search?type=place&q=" + placeName + "&fields=id%2Cname%2Clocation%2Clink%2Ccheckins&access_token=EAAJZAaZBMsWvABABMNnwmKZA3kLtdMIuIBAa7tUShbJOdcsaLkoYQ0vZAd9AqDQSwZAZBAMnksPwQUOdseBAp19hIYQDKmZCpvyFf5DrHRlRhCUu86rnfB0ReDJGBUD6gZCc8o1dZCHK0pZBBTKyZBygzZCIOAvnd7vZAaAUZD"
+let fbUrl = "https://graph.facebook.com/v7.0/search?type=place&q=" + placeName + "&fields=id%2Cname%2Clocation%2Clink%2Ccheckins&access_token="
 // Mapbox URL
-let mapUrl = "https://api.mapbox.com/styles/v1/mapbox/dark-v10/static/0,0,1,0,0/1024x512@2x?access_token=pk.eyJ1Ijoic2ZiYXRjaGVsb3IiLCJhIjoiY2tjZDdmZmNvMGJ1YjJxcDIyc2NtMnJheCJ9.IF6EZOAWqwqcbmVj_Hx-NQ"
+let mapUrl = "https://api.mapbox.com/styles/v1/mapbox/dark-v10/static/0,0,1,0,0/1024x512@2x?access_token="
 let zoom = 1.0;
 // Check Valuess
 console.log(fbUrl);

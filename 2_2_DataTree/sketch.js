@@ -17,7 +17,7 @@ let windFrequencyY = 0.0001;
 //search
 var yearsBack = 30;
 var itr = 0;
-var key = 'dsmqvW3GMsp2GJ4mho31MPjGJxxGNdD2';
+var key = '';
 var searchTerm = 'war';
 //data 
 var termFrequencyData = new Map();

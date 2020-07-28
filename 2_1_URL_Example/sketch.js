@@ -1,7 +1,7 @@
 // SET GLOBAL VARIABLES
 var yearsBack = 50;
 var itr = 0;
-var key = 'dsmqvW3GMsp2GJ4mho31MPjGJxxGNdD2';
+var key = '';
 var searchTerm = 'design';
 
 // SET AN ARRAY OF URLs BASED ON HOW MANY YEARS BACK WE WANT DATA.

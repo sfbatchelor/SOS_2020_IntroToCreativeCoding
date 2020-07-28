@@ -2,7 +2,7 @@
 placeName = 'Protest';
 pages = 2;
 itr = 0;
-url = "https://graph.facebook.com/v7.0/search?type=place&q=" + placeName + "&fields=id%2Cname%2Clocation&access_token=EAAJZAaZBMsWvABABMNnwmKZA3kLtdMIuIBAa7tUShbJOdcsaLkoYQ0vZAd9AqDQSwZAZBAMnksPwQUOdseBAp19hIYQDKmZCpvyFf5DrHRlRhCUu86rnfB0ReDJGBUD6gZCc8o1dZCHK0pZBBTKyZBygzZCIOAvnd7vZAaAUZD"
+url = "https://graph.facebook.com/v7.0/search?type=place&q=" + placeName + "&fields=id%2Cname%2Clocation&access_token="
 console.log(url);
 
 //// SETUP: Function called by P5 that executes before the drawing loop. Put all of your setup code here.
