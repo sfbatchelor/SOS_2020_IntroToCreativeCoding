@@ -1,0 +1,3794 @@
+[
+  {
+    "id": "630994200275498",
+    "name": "Aga Khan University Hospital, Karachi",
+    "location": {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "latitude": 24.892202565925,
+      "longitude": 67.074655821646
+    },
+    "link": "https://www.facebook.com/129660153742241",
+    "checkins": 164596
+  },
+  {
+    "id": "217098971666655",
+    "name": "University of Iowa Hospitals & Clinics",
+    "location": {
+      "city": "Iowa City",
+      "country": "United States",
+      "latitude": 41.659144430569,
+      "longitude": -91.548358225785,
+      "state": "IA",
+      "street": "200 Hawkins Dr",
+      "zip": "52242"
+    },
+    "link": "https://www.facebook.com/163553733687846",
+    "checkins": 172540
+  },
+  {
+    "id": "192671194193713",
+    "name": "โรงพยาบาล สมิติเวช สุขุมวิท Samitivej Sukhumvit Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.734950431854,
+      "longitude": 100.57669410378,
+      "street": "133 Sukhumvit 49, Klongtan Nua, Vadhana",
+      "zip": "10110"
+    },
+    "link": "https://www.facebook.com/192671170860382",
+    "checkins": 364272
+  },
+  {
+    "id": "10150174026932961",
+    "name": "Le Bonheur Children's Hospital",
+    "location": {
+      "city": "Memphis",
+      "country": "United States",
+      "latitude": 35.144892734009,
+      "longitude": -90.03170559369,
+      "state": "TN",
+      "street": "848 Adams Ave",
+      "zip": "38103"
+    },
+    "link": "https://www.facebook.com/25767202960",
+    "checkins": 309196
+  },
+  {
+    "id": "814472278720904",
+    "name": "Paolo Hospital Phaholyothin",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.792301217477,
+      "longitude": 100.54973423481,
+      "street": "670/1 ถนน พหลโยธิน แขวง สามเสนใน เขต พญาไท",
+      "zip": "10400"
+    },
+    "link": "https://www.facebook.com/450523781782424",
+    "checkins": 80176
+  },
+  {
+    "id": "1774365189335300",
+    "name": "SQUARE HOSPITALS LTD.",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.753080304253,
+      "longitude": 90.38151204586,
+      "street": "18/F Bir Uttam Qazi Nuruzzaman Sarak (West Panthapath)",
+      "zip": "1205"
+    },
+    "link": "https://www.facebook.com/115659221872580",
+    "checkins": 19791
+  },
+  {
+    "id": "1221869797832818",
+    "name": "Bangladesh Specialized Hospital",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.776408558889,
+      "longitude": 90.362987062621,
+      "street": "21 Shyamoli-Mirpur Road",
+      "zip": "1207"
+    },
+    "link": "https://www.facebook.com/1219061841446947",
+    "checkins": 20132
+  },
+  {
+    "id": "102583778007120",
+    "name": "โรงพยาบาลราชธานี Rajthanee Hospital",
+    "location": {
+      "city": "Ayutthaya",
+      "country": "Thailand",
+      "latitude": 14.342678,
+      "longitude": 100.6083192
+    },
+    "link": "https://www.facebook.com/102583774673787",
+    "checkins": 12968
+  },
+  {
+    "id": "100873417980087",
+    "name": "โรงพยาบาลสินแพทย์ ลำลูกกา Synphaet Lamlukka Hospital",
+    "location": {
+      "city": "Amphoe Pathum Thani",
+      "country": "Thailand",
+      "latitude": 13.93194,
+      "longitude": 100.67004,
+      "street": "โรงพยาบาลสินแพทย์ ลำลูกกา 37/29 ถนนลำลูกกา ตำบลคูคต",
+      "zip": "12130"
+    },
+    "link": "https://www.facebook.com/100873284646767",
+    "checkins": 4471
+  },
+  {
+    "id": "10150244856891370",
+    "name": "Texas Children's Hospital",
+    "location": {
+      "city": "Houston",
+      "country": "United States",
+      "latitude": 29.708050309327,
+      "longitude": -95.401451289654,
+      "state": "TX",
+      "street": "6621 Fannin Street",
+      "zip": "77030"
+    },
+    "link": "https://www.facebook.com/237367506369",
+    "checkins": 429895
+  },
+  {
+    "id": "808784845817924",
+    "name": "BNH Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.724982926764,
+      "longitude": 100.53500689304,
+      "street": "BNH Hospital 9/1 Convent Road, Silom",
+      "zip": "10500"
+    },
+    "link": "https://www.facebook.com/132031896826559",
+    "checkins": 124252
+  },
+  {
+    "id": "10151901713352029",
+    "name": "Shaukat Khanum Memorial Cancer Hospital and Research Centre",
+    "location": {
+      "city": "Lahore",
+      "country": "Pakistan",
+      "latitude": 31.448432053636,
+      "longitude": 74.271377566661,
+      "street": "7-A Block R-3, Johar Town, Lahor, Pakistan.",
+      "zip": "54770"
+    },
+    "link": "https://www.facebook.com/234494467028",
+    "checkins": 80860
+  },
+  {
+    "id": "168444463189990",
+    "name": "Hospital Español",
+    "location": {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "latitude": 19.43891989689,
+      "longitude": -99.195761846095,
+      "street": "Avenida Ejército Nacional 613, Polanco",
+      "zip": "11520"
+    },
+    "link": "https://www.facebook.com/168444453189991",
+    "checkins": 140213
+  },
+  {
+    "id": "388934624600569",
+    "name": "Aikchol Hospital",
+    "location": {
+      "latitude": 13.354925472366,
+      "longitude": 100.97611947969,
+      "street": "โรงพยาบาลเอกชล",
+      "zip": "20000"
+    },
+    "link": "https://www.facebook.com/388931021267596",
+    "checkins": 86747
+  },
+  {
+    "id": "989749967777638",
+    "name": "Shwe La Min Hospital ေရႊလမင္းေဆးရံု",
+    "location": {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "latitude": 16.780618863863,
+      "longitude": 96.141183924779,
+      "street": "အမွတ္(၁၅/၁၉) ေဇာ္ဂ်ီ လမ္း ၊ လမ္းမေတာ္",
+      "zip": "11131"
+    },
+    "link": "https://www.facebook.com/989686987783936",
+    "checkins": 23026
+  },
+  {
+    "id": "443423879058080",
+    "name": "Specialty Hospital, Jordan",
+    "location": {
+      "city": "Amman",
+      "country": "Jordan",
+      "latitude": 31.978952001202,
+      "longitude": 35.900179077561,
+      "street": "Al Shmeisani"
+    },
+    "link": "https://www.facebook.com/128067560593715",
+    "checkins": 7520
+  },
+  {
+    "id": "1122550877767701",
+    "name": "Moorfields Eye Hospitals UAE",
+    "location": {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.23425792449,
+      "longitude": 55.319371141336,
+      "street": "Dubai HealthCare City"
+    },
+    "link": "https://www.facebook.com/111884402167692",
+    "checkins": 590
+  },
+  {
+    "id": "104317124619448",
+    "name": "SRJ CBCC Cancer Hospital",
+    "location": {
+      "city": "Indore",
+      "country": "India",
+      "latitude": 22.73176981943,
+      "longitude": 75.889258112517,
+      "street": "142- Phadnis Colony A.B. Road, Near LIG Square",
+      "zip": "452001"
+    },
+    "link": "https://www.facebook.com/104317117952782",
+    "checkins": 45
+  },
+  {
+    "id": "515031251955893",
+    "name": "Hospital Sírio-Libanês",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.557207199329,
+      "longitude": -46.653860392102,
+      "state": "SP"
+    },
+    "link": "https://www.facebook.com/426383670820652",
+    "checkins": 135737
+  },
+  {
+    "id": "1523275427722791",
+    "name": "Sikarin Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.654306601846,
+      "longitude": 100.64623475075,
+      "street": "976 ถนน ลาซาล",
+      "zip": "10260"
+    },
+    "link": "https://www.facebook.com/134820323234982",
+    "checkins": 140605
+  },
+  {
+    "id": "1207481352615878",
+    "name": "โรงพยาบาลสงขลานครินทร์ - Songklanagarind Hospital",
+    "location": {
+      "city": "Hat Yai",
+      "country": "Thailand",
+      "latitude": 7.0069334806274,
+      "longitude": 100.49480020091,
+      "street": "โรงพยาบาลสงขลานครินทร์ 15 ถ.กาญจนวณิชย์ ต.หาดใหญ่ อ.หาดใหญ่",
+      "zip": "90110"
+    },
+    "link": "https://www.facebook.com/162273440470013",
+    "checkins": 450817
+  },
+  {
+    "id": "642843092447069",
+    "name": "Medicine Hospital",
+    "location": {
+      "city": "Bağcılar",
+      "country": "Turkey",
+      "latitude": 41.03045,
+      "longitude": 28.83861,
+      "street": "Barbaros Mh. Hoca Ahmet Yesevi Cd. No: 149 Güneşli/Bağcılar",
+      "zip": "34212"
+    },
+    "link": "https://www.facebook.com/642842722447106",
+    "checkins": 50087
+  },
+  {
+    "id": "100828344966321",
+    "name": "โรงพยาบาลระยอง :: Rᴀʏᴏɴɢ Hᴏsᴘɪᴛᴀʟ",
+    "location": {
+      "city": "Rayong",
+      "country": "Thailand",
+      "latitude": 12.682076173161,
+      "longitude": 101.27639732783
+    },
+    "link": "https://www.facebook.com/100828338299655",
+    "checkins": 6121
+  },
+  {
+    "id": "1614364611952429",
+    "name": "Hospital CEMA",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.54531,
+      "longitude": -46.59085,
+      "state": "SP",
+      "street": "Rua Padre Adelino, 333, Belém",
+      "zip": "03303000"
+    },
+    "link": "https://www.facebook.com/177656862289885",
+    "checkins": 64761
+  },
+  {
+    "id": "245301492809936",
+    "name": "Bangpakok 9 International Hospital - Myanmar",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.681670106905,
+      "longitude": 100.47456429404,
+      "street": "362 ถนนพระราม 2 แขวงบางมด เขตจอมทอง กรุงเทพมหานคร 10150",
+      "zip": "10150"
+    },
+    "link": "https://www.facebook.com/245301472809938",
+    "checkins": 2207
+  },
+  {
+    "id": "728636890534810",
+    "name": "Hospital VITA",
+    "location": {
+      "latitude": -25.406792336821,
+      "longitude": -49.217730847647
+    },
+    "link": "https://www.facebook.com/339029956162174",
+    "checkins": 69727
+  },
+  {
+    "id": "807000549409755",
+    "name": "Emirates European Hospital - المستشفى الإماراتي الأوروبي",
+    "location": {
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "latitude": 25.373407035814,
+      "longitude": 55.399367482155,
+      "street": "AlQulia, Al Arouba Street opposite fine fare",
+      "zip": "P.O.Box 77455"
+    },
+    "link": "https://www.facebook.com/806785356097941",
+    "checkins": 418
+  },
+  {
+    "id": "1483681725184488",
+    "name": "โรงพยาบาลกรุงเทพสิริโรจน์ Bangkok Hospital Siriroj",
+    "location": {
+      "city": "Phuket",
+      "country": "Thailand",
+      "latitude": 7.8978124706808,
+      "longitude": 98.367711598746,
+      "street": "ถนน บางใหญ่",
+      "zip": "83000"
+    },
+    "link": "https://www.facebook.com/1483681681851159",
+    "checkins": 224058
+  },
+  {
+    "id": "315546935154585",
+    "name": "Acibadem Sistina Hospital",
+    "location": {
+      "city": "Skopje",
+      "country": "Republic of Macedonia",
+      "latitude": 42.013998426513,
+      "longitude": 21.403934601564,
+      "street": "Скупи",
+      "zip": "1000"
+    },
+    "link": "https://www.facebook.com/118112901564657",
+    "checkins": 15994
+  },
+  {
+    "id": "10150159205501595",
+    "name": "Parkland Hospital",
+    "location": {
+      "city": "Dallas",
+      "country": "United States",
+      "latitude": 32.811984775062,
+      "longitude": -96.83673620224,
+      "state": "TX",
+      "street": "5200 Harry Hines Blvd",
+      "zip": "75235"
+    },
+    "link": "https://www.facebook.com/60942226594",
+    "checkins": 344707
+  },
+  {
+    "id": "169743669740059",
+    "name": "Hospital das Clínicas de Ribeirão Preto",
+    "location": {
+      "city": "Ribeirão Prêto",
+      "country": "Brazil",
+      "latitude": -21.162367051555,
+      "longitude": -47.852390982718,
+      "state": "SP",
+      "street": "Avenida Bandeirantes, 3900",
+      "zip": "14048-900"
+    },
+    "link": "https://www.facebook.com/134459696601790",
+    "checkins": 91176
+  },
+  {
+    "id": "557949504232415",
+    "name": "Hospital Sótero del Río",
+    "location": {
+      "city": "Puente Alto",
+      "country": "Chile",
+      "latitude": -33.57691882295,
+      "longitude": -70.580630445006,
+      "street": "Concha Y Toro #3459"
+    },
+    "link": "https://www.facebook.com/158215974205772",
+    "checkins": 121902
+  },
+  {
+    "id": "156814311004650",
+    "name": "James Cook University Hospital",
+    "location": {
+      "city": "Middlesbrough",
+      "country": "United Kingdom",
+      "latitude": 54.55094267011,
+      "longitude": -1.215574775402,
+      "street": "Marton Road",
+      "zip": "TS4 3BW"
+    },
+    "link": "https://www.facebook.com/156814301004651",
+    "checkins": 220011
+  },
+  {
+    "id": "937296412947478",
+    "name": "Medical College and Hospital, Kolkata",
+    "location": {
+      "city": "Kolkata",
+      "country": "India",
+      "latitude": 22.573557147098,
+      "longitude": 88.361899852753
+    },
+    "link": "https://www.facebook.com/209685462375247",
+    "checkins": 96627
+  },
+  {
+    "id": "10150160137106398",
+    "name": "Wolfson Children's Hospital",
+    "location": {
+      "city": "Jacksonville",
+      "country": "United States",
+      "latitude": 30.31524,
+      "longitude": -81.66398,
+      "state": "FL",
+      "street": "800 Prudential Dr",
+      "zip": "32207"
+    },
+    "link": "https://www.facebook.com/266716921397",
+    "checkins": 170288
+  },
+  {
+    "id": "1599974110156112",
+    "name": "Rainbow Hospitals",
+    "location": {
+      "latitude": 17.424601879309,
+      "longitude": 78.430302143097,
+      "street": "Road No 2",
+      "zip": "500034"
+    },
+    "link": "https://www.facebook.com/214231758730361",
+    "checkins": 7524
+  },
+  {
+    "id": "1147622468673729",
+    "name": "Vibharam Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.734700421495,
+      "longitude": 100.64548373222,
+      "street": "ถนน พัฒนาการ",
+      "zip": "10250"
+    },
+    "link": "https://www.facebook.com/327030707399580",
+    "checkins": 54812
+  },
+  {
+    "id": "181523978981934",
+    "name": "Disha Eye Hospitals",
+    "location": {
+      "city": "Kolkata",
+      "country": "India",
+      "latitude": 22.763667499027,
+      "longitude": 88.369427489936,
+      "street": "State Highway 1",
+      "zip": "700120"
+    },
+    "link": "https://www.facebook.com/162544250879907",
+    "checkins": 1937
+  },
+  {
+    "id": "10150428099201681",
+    "name": "Singapore General Hospital",
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.2795549233646,
+      "longitude": 103.83476265588,
+      "state": "Singapore",
+      "street": "Outram Road",
+      "zip": "169608"
+    },
+    "link": "https://www.facebook.com/47292171680",
+    "checkins": 333053
+  },
+  {
+    "id": "581436561988247",
+    "name": "Hospital São Camilo SP",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.534029849189,
+      "longitude": -46.688238387538,
+      "state": "SP",
+      "street": "Unidade Pompeia - Av. Pompeia, 1178 Unidade Santana - R. Voluntários da Pátria, 3693 Unidade Ipiranga - Rua Pouso Alegre, 01"
+    },
+    "link": "https://www.facebook.com/362582693873636",
+    "checkins": 349541
+  },
+  {
+    "id": "423140947819269",
+    "name": "Phyathai Nawamin Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.825110142557,
+      "longitude": 100.65712465633,
+      "street": "44/505 ถ.นวมินทร์ แขวงนวลจันทร์ เขตบึงกุ่ม",
+      "zip": "10230"
+    },
+    "link": "https://www.facebook.com/423140901152607",
+    "checkins": 146762
+  },
+  {
+    "id": "218644594818518",
+    "name": "Vets In Practice Animal Hospital",
+    "location": {
+      "city": "Mandaluyong",
+      "country": "Philippines",
+      "latitude": 14.578037501449,
+      "longitude": 121.0329636297,
+      "street": "63 Maysilo Circle cor Boni Ave."
+    },
+    "link": "https://www.facebook.com/218644581485186",
+    "checkins": 7219
+  },
+  {
+    "id": "10150477373424487",
+    "name": "Driscoll Children's Hospital",
+    "location": {
+      "city": "Corpus Christi",
+      "country": "United States",
+      "latitude": 27.748735374124,
+      "longitude": -97.386478344298,
+      "state": "TX"
+    },
+    "link": "https://www.facebook.com/322300314486",
+    "checkins": 150590
+  },
+  {
+    "id": "138354419571611",
+    "name": "Dhaka Medical College & Hospital",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.725019029887,
+      "longitude": 90.397568913943,
+      "street": "Road 13A",
+      "zip": "1205"
+    },
+    "link": "https://www.facebook.com/138354402904946",
+    "checkins": 291091
+  },
+  {
+    "id": "1663769150611429",
+    "name": "Hospital Sungai Buloh Selangor",
+    "location": {
+      "city": "Sungai Buloh",
+      "country": "Malaysia",
+      "latitude": 3.2190227224383,
+      "longitude": 101.58367846615,
+      "street": "Jalan Hospital",
+      "zip": "47000"
+    },
+    "link": "https://www.facebook.com/1602043710117307",
+    "checkins": 38458
+  },
+  {
+    "id": "165843353489351",
+    "name": "Hospital Central del IPS",
+    "location": {
+      "city": "Asunción",
+      "country": "Paraguay",
+      "latitude": -25.272252681008,
+      "longitude": -57.580418586731,
+      "street": "Av. Sacramento y Lombardo"
+    },
+    "link": "https://www.facebook.com/165843333489353",
+    "checkins": 286414
+  },
+  {
+    "id": "1875098606087628",
+    "name": "Phyathai Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.7180495,
+      "longitude": 100.4534582,
+      "street": "Phyathai3 Hospital : 111 Phet Kasem Rd, Bang Duan, Khet Phasi Charoen",
+      "zip": "10160"
+    },
+    "link": "https://www.facebook.com/1875098582754297",
+    "checkins": 28240
+  },
+  {
+    "id": "1190549351002392",
+    "name": "Asgar Ali Hospital",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.707821909864,
+      "located_in": "1190549351002392",
+      "longitude": 90.42360663414,
+      "street": "111/1/A Distillery Road",
+      "zip": "1204"
+    },
+    "link": "https://www.facebook.com/1190540484336612",
+    "checkins": 21342
+  },
+  {
+    "id": "991387567590564",
+    "name": "Rohilkhand Medical College and Hospital",
+    "location": {
+      "city": "Bareilly",
+      "country": "India",
+      "latitude": 28.379920946098,
+      "longitude": 79.461661593018,
+      "street": "Pilibhit Bye Pass Road",
+      "zip": "243006"
+    },
+    "link": "https://www.facebook.com/233936440002351",
+    "checkins": 56483
+  },
+  {
+    "id": "713206518693694",
+    "name": "R. G. Kar Medical College and Hospital",
+    "location": {
+      "city": "Kolkata",
+      "country": "India",
+      "latitude": 22.604028033893,
+      "longitude": 88.378612920121,
+      "street": "1, Khudiram Bose Sarani",
+      "zip": "700004"
+    },
+    "link": "https://www.facebook.com/112765172071168",
+    "checkins": 79541
+  },
+  {
+    "id": "193187347711629",
+    "name": "Apollo Hospitals Delhi",
+    "location": {
+      "city": "New Delhi",
+      "country": "India",
+      "latitude": 28.540934479802,
+      "longitude": 77.283294193021,
+      "street": "Indraprastha Apollo Hospitals, Sarita Vihar, Delhi Mathura Road",
+      "zip": "110076"
+    },
+    "link": "https://www.facebook.com/165408430489521",
+    "checkins": 120275
+  },
+  {
+    "id": "2886202214734356",
+    "name": "Hospital de Clínicas de Porto Alegre",
+    "location": {
+      "city": "Porto Alegre",
+      "country": "Brazil",
+      "latitude": -30.0386,
+      "longitude": -51.2065,
+      "state": "RS"
+    },
+    "link": "https://www.facebook.com/107800579241214",
+    "checkins": 708
+  },
+  {
+    "id": "164540813669777",
+    "name": "Hospital Raja Permaisuri Bainun Ipoh (HRPB)",
+    "location": {
+      "city": "Ipoh",
+      "country": "Malaysia",
+      "latitude": 4.6033634318334,
+      "longitude": 101.09036532403,
+      "street": "Jalan Hospital"
+    },
+    "link": "https://www.facebook.com/164540800336445",
+    "checkins": 192654
+  },
+  {
+    "id": "109066404176766",
+    "name": "Hospital Pusrawi Sdn Bhd",
+    "location": {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "latitude": 3.1710965618286,
+      "longitude": 101.71011844117,
+      "street": "Lot 149 Jalan Tun Razak",
+      "zip": "50400"
+    },
+    "link": "https://www.facebook.com/108949644188442",
+    "checkins": 323
+  },
+  {
+    "id": "189153171716949",
+    "name": "Specialist Hospital Gombe State",
+    "location": {
+      "city": "Gombe",
+      "country": "Nigeria",
+      "latitude": 10.288276539163,
+      "longitude": 11.158056153786
+    },
+    "link": "https://www.facebook.com/189153165050283",
+    "checkins": 25005
+  },
+  {
+    "id": "10151024012487301",
+    "name": "OSUCCC-James Cancer Hospital and Solove Research Institute",
+    "location": {
+      "city": "Columbus",
+      "country": "United States",
+      "latitude": 39.994869587131,
+      "longitude": -83.019988227432,
+      "state": "OH",
+      "street": "460 W. 10th Ave",
+      "zip": "43210"
+    },
+    "link": "https://www.facebook.com/55487112300",
+    "checkins": 107891
+  },
+  {
+    "id": "746997698767003",
+    "name": "Houston Methodist Hospital",
+    "location": {
+      "city": "Houston",
+      "country": "United States",
+      "latitude": 29.710607442166,
+      "longitude": -95.39963749595,
+      "state": "TX",
+      "street": "6565 Fannin Street",
+      "zip": "77030"
+    },
+    "link": "https://www.facebook.com/746997685433671",
+    "checkins": 117431
+  },
+  {
+    "id": "172906482765716",
+    "name": "Hospital Samaritano",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.5648437,
+      "longitude": -46.6469368,
+      "state": "SP"
+    },
+    "link": "https://www.facebook.com/161411857248512",
+    "checkins": 93933
+  },
+  {
+    "id": "843863755695622",
+    "name": "JEC Eye Hospital",
+    "location": {
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "latitude": -6.1895216346154,
+      "longitude": 106.76145129615,
+      "street": "Jl. Terusan Arjuna Utara No.1 Kedoya Jakarta Barat",
+      "zip": "11520"
+    },
+    "link": "https://www.facebook.com/148202035261801",
+    "checkins": 7738
+  },
+  {
+    "id": "159303080749427",
+    "name": "Southmead Hospital NHS",
+    "location": {
+      "city": "Bristol",
+      "country": "United Kingdom",
+      "latitude": 51.495769893967,
+      "longitude": -2.591191756377,
+      "street": "Southmead Rd",
+      "zip": "BS10 5"
+    },
+    "link": "https://www.facebook.com/159303067416095",
+    "checkins": 159849
+  },
+  {
+    "id": "614137168636896",
+    "name": "Addenbrooke's Hospital",
+    "location": {
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "latitude": 52.176,
+      "longitude": 0.14,
+      "zip": "CB2 0QQ"
+    },
+    "link": "https://www.facebook.com/110229589027659",
+    "checkins": 158840
+  },
+  {
+    "id": "1138890592794304",
+    "name": "مستشفى معهد ناصر للبحوث والعلاج Nasser Hospital",
+    "location": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.096514517321,
+      "longitude": 31.239223746784,
+      "street": "1351 كورنيش النيل، شبرا، القاهرة، محافظة القاهرة‬",
+      "zip": "11515"
+    },
+    "link": "https://www.facebook.com/969309606419071",
+    "checkins": 16259
+  },
+  {
+    "id": "10150158305101048",
+    "name": "The Woman's Hospital of Texas",
+    "location": {
+      "city": "Houston",
+      "country": "United States",
+      "latitude": 29.693029780728,
+      "longitude": -95.402320325375,
+      "state": "TX",
+      "street": "7600 Fannin St",
+      "zip": "77054"
+    },
+    "link": "https://www.facebook.com/272766386047",
+    "checkins": 187887
+  },
+  {
+    "id": "168695626518392",
+    "name": "Medical City Dallas Hospital",
+    "location": {
+      "city": "Dallas",
+      "country": "United States",
+      "latitude": 32.9117804,
+      "longitude": -96.7730156,
+      "state": "TX",
+      "street": "7777 Forest Lane",
+      "zip": "75230"
+    },
+    "link": "https://www.facebook.com/119645874756701",
+    "checkins": 214419
+  },
+  {
+    "id": "662726790808102",
+    "name": "Al Ehsan Welfare Eye Hospital",
+    "location": {
+      "city": "Lahore",
+      "country": "Pakistan",
+      "latitude": 31.56711868749,
+      "longitude": 74.38108921051,
+      "street": "Shalimar Link Road, Mughalpura",
+      "zip": "54700"
+    },
+    "link": "https://www.facebook.com/386646085082842",
+    "checkins": 45
+  },
+  {
+    "id": "704936249586444",
+    "name": "Thainakarin Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.667829522677,
+      "located_in": "195103593854085",
+      "longitude": 100.63829557651,
+      "street": "345 ถ.เทพรัตน แขวงบางนาเหนือ เขตบางนา",
+      "zip": "10260"
+    },
+    "link": "https://www.facebook.com/272559406157466",
+    "checkins": 215949
+  },
+  {
+    "id": "791535304216964",
+    "name": "Dar Al Fouad Hospital",
+    "location": {
+      "city": "6 October City",
+      "country": "Egypt",
+      "latitude": 29.99765906013,
+      "located_in": "185888318124866",
+      "longitude": 30.9670999887,
+      "street": "الحي المتميز",
+      "zip": "12568"
+    },
+    "link": "https://www.facebook.com/789910791046082",
+    "checkins": 19783
+  },
+  {
+    "id": "598718430275830",
+    "name": "Kulsum International Hospital",
+    "location": {
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "latitude": 33.718116086061,
+      "longitude": 73.072845856036,
+      "street": "2020, Kulsum Plaza, Blue Area",
+      "zip": "44000"
+    },
+    "link": "https://www.facebook.com/598710966943243",
+    "checkins": 10659
+  },
+  {
+    "id": "1698035353767808",
+    "name": "Hospital Nacional de Itauguá",
+    "location": {
+      "city": "Itauguá",
+      "country": "Paraguay",
+      "latitude": -25.448094889566,
+      "longitude": -57.36218542884,
+      "street": "Ruta Gral. Samaniego. Ramal Itauguá-Itá",
+      "zip": "2740"
+    },
+    "link": "https://www.facebook.com/1693226624248681",
+    "checkins": 56669
+  },
+  {
+    "id": "108482194214160",
+    "name": "مشفى بوابة دمشق Bawabt Demashq Hospital",
+    "location": {
+      "city": "Tripoli",
+      "country": "Libya",
+      "latitude": 32.855679837708,
+      "longitude": 13.202412128448,
+      "street": "حي دمشق"
+    },
+    "link": "https://www.facebook.com/108482057547507",
+    "checkins": 15
+  },
+  {
+    "id": "255836898321177",
+    "name": "โรงพยาบาลร้อยเอ็ด Roi Et Hospital",
+    "location": {
+      "city": "Muang Roi Et",
+      "country": "Thailand",
+      "latitude": 16.048020368659,
+      "longitude": 103.65318134207,
+      "street": "โรงพยาบาลร้อยเอ็ด ตำบลในเมือง อำเภอเมือง จังหวัดร้อยเอ็ด"
+    },
+    "link": "https://www.facebook.com/255836894987844",
+    "checkins": 46472
+  },
+  {
+    "id": "406297356222503",
+    "name": "Ladprao General Hospital โรงพยาบาลลาดพร้าว",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.778359531302,
+      "longitude": 100.62380611897,
+      "street": "ถนน ลาดพร้าว",
+      "zip": "10310"
+    },
+    "link": "https://www.facebook.com/319732608212312",
+    "checkins": 242354
+  },
+  {
+    "id": "646937795356139",
+    "name": "Nakornthon Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.660540192516,
+      "longitude": 100.43403173288,
+      "street": "1 Rama 2 Soi 56, Samaedam, Bangkhunthian",
+      "zip": "10150"
+    },
+    "link": "https://www.facebook.com/155130367870220",
+    "checkins": 198213
+  },
+  {
+    "id": "1161134800580113",
+    "name": "Hospital Brasília",
+    "location": {
+      "city": "Brasília",
+      "country": "Brazil",
+      "latitude": -15.84602238553,
+      "longitude": -47.882652005233,
+      "state": "DF",
+      "street": "SHIS QI 15 Bl. A",
+      "zip": "71635"
+    },
+    "link": "https://www.facebook.com/1161134760580117",
+    "checkins": 34455
+  },
+  {
+    "id": "205931766104410",
+    "name": "Yanhee International Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.799987602986,
+      "longitude": 100.51109487533,
+      "street": "454 Charansanitwong Road, Bang-O, Bangplad",
+      "zip": "10700"
+    },
+    "link": "https://www.facebook.com/129608797070041",
+    "checkins": 243867
+  },
+  {
+    "id": "1550065941679466",
+    "name": "مستشفى مصر الدولى - Misr International Hospital",
+    "location": {
+      "city": "Giza",
+      "country": "Egypt",
+      "latitude": 30.043255167081,
+      "longitude": 31.216270029545,
+      "street": "12 شارع السرايا - ميدان فينى - الدقى",
+      "zip": "12611"
+    },
+    "link": "https://www.facebook.com/578139152205488",
+    "checkins": 15657
+  },
+  {
+    "id": "215171561842333",
+    "name": "โรงพยาบาลยโสธร. Yasothon Hospital",
+    "location": {
+      "city": "Ban Tat Thong",
+      "country": "Thailand",
+      "latitude": 15.781542268022,
+      "longitude": 104.16150569916,
+      "street": "เวชระเบียนและสถิติ",
+      "zip": "35000"
+    },
+    "link": "https://www.facebook.com/215171548509001",
+    "checkins": 270448
+  },
+  {
+    "id": "411054848942462",
+    "name": "Group Florence Nightingale Hospitals",
+    "location": {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "latitude": 41.06940023931,
+      "longitude": 28.983985940065,
+      "street": "Abide-i Hurriyet Cad. No: 164  Sisli",
+      "zip": "34381"
+    },
+    "link": "https://www.facebook.com/191924727522143",
+    "checkins": 2212
+  },
+  {
+    "id": "290293137650514",
+    "name": "Hospital Universitario. \"Dr. José Eleuterio González\" UANL",
+    "location": {
+      "city": "Monterrey",
+      "country": "Mexico",
+      "latitude": 25.689039486307,
+      "longitude": -100.34951447362,
+      "street": "Calzada Ada Francisco i Madero 3501",
+      "zip": "64460"
+    },
+    "link": "https://www.facebook.com/290240524322442",
+    "checkins": 336579
+  },
+  {
+    "id": "1629627217359832",
+    "name": "Nanavati Super Speciality Hospital",
+    "location": {
+      "city": "Mumbai",
+      "country": "India",
+      "latitude": 19.095816570344,
+      "longitude": 72.840220464232,
+      "street": "S.V. Road, Vile Parle (West)",
+      "zip": "400047"
+    },
+    "link": "https://www.facebook.com/1629627150693172",
+    "checkins": 7535
+  },
+  {
+    "id": "417822561913009",
+    "name": "Sentosa Specialist Hospital",
+    "location": {
+      "city": "Klang",
+      "country": "Malaysia",
+      "latitude": 3.0056372723023,
+      "located_in": "417822561913009",
+      "longitude": 101.48319107541,
+      "street": "No. 27-29, Lorong Temenggung 15-A",
+      "zip": "41200"
+    },
+    "link": "https://www.facebook.com/417820298579902",
+    "checkins": 4363
+  },
+  {
+    "id": "690675777627518",
+    "name": "Queen Elizabeth Hospital Birmingham",
+    "location": {
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "latitude": 52.451688888889,
+      "longitude": -1.9430722222222,
+      "zip": "B15 2TH"
+    },
+    "link": "https://www.facebook.com/138028419558926",
+    "checkins": 181185
+  },
+  {
+    "id": "945903298764714",
+    "name": "Calmette Hospital",
+    "location": {
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "latitude": 11.581485429347,
+      "longitude": 104.91574829191
+    },
+    "link": "https://www.facebook.com/184422251579493",
+    "checkins": 19666
+  },
+  {
+    "id": "552635308245121",
+    "name": "Cho Ray Phnom Penh Hospital",
+    "location": {
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "latitude": 11.534575250938,
+      "longitude": 104.96075259368,
+      "street": "Chbar Ampeou",
+      "zip": "Cho Ray Phnom Penh Hospital"
+    },
+    "link": "https://www.facebook.com/112528965589093",
+    "checkins": 19183
+  },
+  {
+    "id": "489004821226372",
+    "name": "Hospital Alemão Oswaldo Cruz",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.569174639058,
+      "located_in": "489004821226372",
+      "longitude": -46.643234664475,
+      "state": "SP"
+    },
+    "link": "https://www.facebook.com/489004747893046",
+    "checkins": 72314
+  },
+  {
+    "id": "1454932574805330",
+    "name": "Hospital CIMA",
+    "location": {
+      "city": "Escazú",
+      "country": "Costa Rica",
+      "latitude": 9.9395354651767,
+      "longitude": -84.143723484797,
+      "street": "San Rafael",
+      "zip": "10203"
+    },
+    "link": "https://www.facebook.com/1416952885269966",
+    "checkins": 9455
+  },
+  {
+    "id": "1394907684135715",
+    "name": "Believers Church Medical College Hospital",
+    "location": {
+      "city": "Tiruvalla",
+      "country": "India",
+      "latitude": 9.4166490181957,
+      "longitude": 76.575320099032
+    },
+    "link": "https://www.facebook.com/1394907624135721",
+    "checkins": 11982
+  },
+  {
+    "id": "1972216322997376",
+    "name": "TRPH hospital - โรงพยาบาลทีอาร์พีเอช",
+    "location": {
+      "city": "Amphoe Muang Trang",
+      "country": "Thailand",
+      "latitude": 7.5688403459114,
+      "longitude": 99.619058713372
+    },
+    "link": "https://www.facebook.com/1714494468769564",
+    "checkins": 76503
+  },
+  {
+    "id": "719661021832455",
+    "name": "مستشفى الاندلس التخصصي للأورام Al-Andalus oncology hospital",
+    "location": {
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.317852089108,
+      "longitude": 44.419532418251,
+      "street": "حي السعدون, محلة 101, زقاق 83, بناية 14",
+      "zip": "00964"
+    },
+    "link": "https://www.facebook.com/719660965165794",
+    "checkins": 98
+  },
+  {
+    "id": "695958997429722",
+    "name": "Vibhavadi Hospital โรงพยาบาลวิภาวดี",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.846317894329,
+      "located_in": "10153651415852451",
+      "longitude": 100.56193378914,
+      "zip": "10900"
+    },
+    "link": "https://www.facebook.com/695958994096389",
+    "checkins": 60009
+  },
+  {
+    "id": "159587624053435",
+    "name": "King's College Hospital",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom",
+      "latitude": 51.468453403984,
+      "longitude": -0.093066564815617,
+      "street": "Denmark Hill",
+      "zip": "SE5 9RS"
+    },
+    "link": "https://www.facebook.com/159587614053436",
+    "checkins": 189625
+  },
+  {
+    "id": "254761908515682",
+    "name": "Ponderas Academic Hospital",
+    "location": {
+      "city": "Bucharest",
+      "country": "Romania",
+      "latitude": 44.483335174242,
+      "longitude": 26.091877539121,
+      "street": "Strada Nicolae G. Caramfil 85A",
+      "zip": "014142"
+    },
+    "link": "https://www.facebook.com/254761898515683",
+    "checkins": 1303
+  },
+  {
+    "id": "206143216555406",
+    "name": "AlAlamy Hospital المستشفى العالمي للجراحات التخصصية",
+    "location": {
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.362232294274,
+      "longitude": 44.402320390368,
+      "street": "بغداد - شارع فلسطين - خلف الجامعة المستنصرية"
+    },
+    "link": "https://www.facebook.com/206143189888742",
+    "checkins": 2249
+  },
+  {
+    "id": "100949471428987",
+    "name": "Erbil International Hospital",
+    "location": {
+      "city": "Irbil",
+      "country": "Iraq",
+      "latitude": 36.157929590548,
+      "longitude": 43.982461920473,
+      "street": "100 m Road, near makhmur intersection"
+    },
+    "link": "https://www.facebook.com/100949344762333",
+    "checkins": 63
+  },
+  {
+    "id": "1592112851010218",
+    "name": "PatRangsit Hospital",
+    "location": {
+      "latitude": 13.966817554702,
+      "longitude": 100.61996637537,
+      "street": "ถนนพหลโยธิน",
+      "zip": "12130"
+    },
+    "link": "https://www.facebook.com/1589692644585572",
+    "checkins": 95254
+  },
+  {
+    "id": "302805336853933",
+    "name": "โรงพยาบาลสินแพทย์ เทพารักษ์  Synphaet Theparak Hospital",
+    "location": {
+      "city": "Samut Prakan",
+      "country": "Thailand",
+      "latitude": 13.619778552174,
+      "longitude": 100.64131378261,
+      "street": "9/99 ถ.เทพารักษ์ อ.เมืองสมุทรปราการ",
+      "zip": "10270"
+    },
+    "link": "https://www.facebook.com/133019963832472",
+    "checkins": 54723
+  },
+  {
+    "id": "1783030851949305",
+    "name": "Amboseli Institute of Hospitality & Technology",
+    "location": {
+      "city": "Thika",
+      "country": "Kenya",
+      "latitude": -1.047934275484,
+      "longitude": 37.115592956543,
+      "street": "Kiboko Road",
+      "zip": "01000"
+    },
+    "link": "https://www.facebook.com/1726221390963585",
+    "checkins": 2780
+  },
+  {
+    "id": "329835637099071",
+    "name": "UMAE Hospital de Cardiología 34 IMSS",
+    "location": {
+      "city": "Monterrey",
+      "country": "Mexico",
+      "latitude": 25.728216246287,
+      "longitude": -100.36955416203,
+      "street": "Avenida Lincoln s/n",
+      "zip": "64345"
+    },
+    "link": "https://www.facebook.com/329835620432406",
+    "checkins": 90826
+  },
+  {
+    "id": "688127694558855",
+    "name": "İrmet Hospital",
+    "location": {
+      "city": "Çerkezköy",
+      "country": "Turkey",
+      "latitude": 41.293587162974,
+      "longitude": 27.995120709729,
+      "street": "Gazi Osman Paşa Mahallesi Namık Kemal Bulvarı No:17/21",
+      "zip": "59500"
+    },
+    "link": "https://www.facebook.com/688055661232725",
+    "checkins": 47421
+  },
+  {
+    "id": "834448509998952",
+    "name": "Hospital Cidade Tiradentes-PS",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.597703957041,
+      "longitude": -46.403284929925,
+      "state": "SP",
+      "street": "1797  Avenida dos Metalúrgicos",
+      "zip": "08471-000"
+    },
+    "link": "https://www.facebook.com/834448483332288",
+    "checkins": 22694
+  },
+  {
+    "id": "197489196960121",
+    "name": "OCA Hospital",
+    "location": {
+      "city": "Monterrey",
+      "country": "Mexico",
+      "latitude": 25.681537815948,
+      "longitude": -100.31821612572,
+      "street": "Avenida José María Pino Suárez, 645",
+      "zip": "64000"
+    },
+    "link": "https://www.facebook.com/149279345114440",
+    "checkins": 211532
+  },
+  {
+    "id": "1682650955392673",
+    "name": "Gleneagles Hospital Penang",
+    "location": {
+      "city": "George Town",
+      "country": "Malaysia",
+      "latitude": 5.4269015857767,
+      "longitude": 100.31994816296,
+      "street": "1, Jalan Pangkor",
+      "zip": "10050"
+    },
+    "link": "https://www.facebook.com/1681324032192032",
+    "checkins": 74416
+  },
+  {
+    "id": "157200154326681",
+    "name": "Hospital Civil Fray Antonio Alcalde",
+    "location": {
+      "city": "Zapopan",
+      "country": "Mexico",
+      "latitude": 20.685928181051,
+      "located_in": "173986439341472",
+      "longitude": -103.34471854709,
+      "street": "Hospital 278",
+      "zip": "44280"
+    },
+    "link": "https://www.facebook.com/157200144326682",
+    "checkins": 188088
+  },
+  {
+    "id": "307632119267713",
+    "name": "The Mount Sinai Hospital",
+    "location": {
+      "city": "New York",
+      "country": "United States",
+      "latitude": 40.790090793557,
+      "longitude": -73.952891135673,
+      "state": "NY",
+      "street": "1 Gustave L Levy Pl",
+      "zip": "10029"
+    },
+    "link": "https://www.facebook.com/190647927632800",
+    "checkins": 180351
+  },
+  {
+    "id": "767042643306984",
+    "name": "Hospital Materno Infantil Juan Pablo II",
+    "location": {
+      "city": "Mixco",
+      "country": "Guatemala",
+      "latitude": 14.639627733537,
+      "longitude": -90.587473139333,
+      "street": "12 calle final 1-96, Col.El Rosario zona 3 de Mixco",
+      "zip": "01057"
+    },
+    "link": "https://www.facebook.com/632028213475095",
+    "checkins": 4965
+  },
+  {
+    "id": "442428019212219",
+    "name": "Istishari Arab Hospital   -   المستشفى الاستشاري العربي",
+    "location": {
+      "city": "Ramallah",
+      "country": "Palestine",
+      "latitude": 31.933910047496,
+      "longitude": 35.163198301778,
+      "street": "رام الله ضاحية الريحان",
+      "zip": "00970 2"
+    },
+    "link": "https://www.facebook.com/442420605879627",
+    "checkins": 22687
+  },
+  {
+    "id": "10150172229507561",
+    "name": "St. Joseph's Children's Hospital",
+    "location": {
+      "city": "Tampa",
+      "country": "United States",
+      "latitude": 27.982955703845,
+      "longitude": -82.490249569363,
+      "state": "FL",
+      "street": "3001 W Dr Martin Luther King Jr Blvd",
+      "zip": "33607"
+    },
+    "link": "https://www.facebook.com/99028092560",
+    "checkins": 80915
+  },
+  {
+    "id": "1392969140840408",
+    "name": "ร.พ.เสรีรักษ์ Seriruk Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.810835496139,
+      "longitude": 100.71746288977,
+      "zip": "10510"
+    },
+    "link": "https://www.facebook.com/1392969137507075",
+    "checkins": 24967
+  },
+  {
+    "id": "1549625771991363",
+    "name": "Gosha-e-Shifa Hospital",
+    "location": {
+      "city": "Lahore",
+      "country": "Pakistan",
+      "latitude": 31.547504223616,
+      "longitude": 74.283200235276
+    },
+    "link": "https://www.facebook.com/1549607275326546",
+    "checkins": 373
+  },
+  {
+    "id": "166613360568553",
+    "name": "Farazy Dental Hospital & Research Center",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.759070363078,
+      "located_in": "1375764829380303",
+      "longitude": 90.444125533104,
+      "street": "House-10, Block-H, Avenue Road-8,Banasree,Rampura",
+      "zip": "1219"
+    },
+    "link": "https://www.facebook.com/166613330568556",
+    "checkins": 4066
+  },
+  {
+    "id": "247798708733810",
+    "name": "Mercy Hospital St. Louis",
+    "location": {
+      "city": "St. Louis",
+      "country": "United States",
+      "latitude": 38.64545958205,
+      "longitude": -90.446476368752,
+      "state": "MO",
+      "street": "615 S. New Ballas Road",
+      "zip": "63141"
+    },
+    "link": "https://www.facebook.com/209619219218426",
+    "checkins": 169059
+  },
+  {
+    "id": "155222494533937",
+    "name": "Hospital São Lucas - Copacabana",
+    "location": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.97237,
+      "longitude": -43.19295,
+      "state": "RJ",
+      "street": "Travessa Frederico Pamplona, 32, Copacabana",
+      "zip": "22061-080"
+    },
+    "link": "https://www.facebook.com/155222481200605",
+    "checkins": 41847
+  },
+  {
+    "id": "180932662053555",
+    "name": "Al Zahra Hospital Dubai",
+    "location": {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.106313102891,
+      "longitude": 55.180658683842,
+      "street": "Al Zahra Hospital Dubai",
+      "zip": "124412"
+    },
+    "link": "https://www.facebook.com/165682520245236",
+    "checkins": 21053
+  },
+  {
+    "id": "965223896863796",
+    "name": "Complexo Hospitalar de Niterói",
+    "location": {
+      "city": "Niterói",
+      "country": "Brazil",
+      "latitude": -22.894722263424,
+      "longitude": -43.115377945487,
+      "state": "RJ",
+      "street": "Rua La Salle nº 12",
+      "zip": "24020096"
+    },
+    "link": "https://www.facebook.com/735705989815589",
+    "checkins": 29178
+  },
+  {
+    "id": "351244988228408",
+    "name": "Instituto Nacional de Salud del Niño - Hospital del Niño",
+    "location": {
+      "city": "Lima",
+      "country": "Peru",
+      "latitude": -12.065146558446,
+      "longitude": -77.046465903557,
+      "street": "Av. Brasil Nº 600",
+      "zip": "15083"
+    },
+    "link": "https://www.facebook.com/351155004904073",
+    "checkins": 134763
+  },
+  {
+    "id": "1802901156393183",
+    "name": "SikarinHatyai Hospital",
+    "location": {
+      "city": "Ban Bang Riang",
+      "country": "Thailand",
+      "latitude": 7.0224009909717,
+      "longitude": 100.46995892004,
+      "street": "172 ถ.นิพัทธ์สงเคราะห์ 1 อ.หาดใหญ๋",
+      "zip": "90110"
+    },
+    "link": "https://www.facebook.com/179414445408537",
+    "checkins": 74853
+  },
+  {
+    "id": "1552516248331273",
+    "name": "Bệnh Viện Hữu Nghị Việt Đức - VietDuc University Hospital",
+    "location": {
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "latitude": 21.028066508007,
+      "longitude": 105.84732248369,
+      "street": "40 Tràng Thi",
+      "zip": "100000"
+    },
+    "link": "https://www.facebook.com/1552489878333910",
+    "checkins": 106230
+  },
+  {
+    "id": "478066635865959",
+    "name": "Madina Women's Hospital - مستشفى المدينة للمرأة",
+    "location": {
+      "city": "Alexandria",
+      "country": "Egypt",
+      "latitude": 31.210495209113,
+      "longitude": 29.938462092154,
+      "street": "El shahed Kamel El Din Salah Street building 25 , Semouha , Alexandria.",
+      "zip": "21311"
+    },
+    "link": "https://www.facebook.com/116803198658973",
+    "checkins": 5341
+  },
+  {
+    "id": "145393192215963",
+    "name": "Hospital HGR #180 IMSS Tlajomulco de Zuñiga, Jalisco.",
+    "location": {
+      "city": "Tlajomulco de Zúñiga",
+      "country": "Mexico",
+      "latitude": 20.507567840411,
+      "longitude": -103.3988967989,
+      "zip": "45650"
+    },
+    "link": "https://www.facebook.com/145393175549298",
+    "checkins": 69024
+  },
+  {
+    "id": "955650031138534",
+    "name": "โรงพยาบาลลานนา  Lanna Hospital",
+    "location": {
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.812750913128,
+      "longitude": 98.990827965964,
+      "street": "1 ถ.สุขเกษม ต.ป่าตัน อ.เมือง จ.เชียงใหม่",
+      "zip": "50300"
+    },
+    "link": "https://www.facebook.com/205259349510943",
+    "checkins": 131164
+  },
+  {
+    "id": "212014128815423",
+    "name": "Hospital General CMN La Raza",
+    "location": {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "latitude": 19.4661784,
+      "longitude": -99.1449834,
+      "zip": "02990"
+    },
+    "link": "https://www.facebook.com/212014112148758",
+    "checkins": 98764
+  },
+  {
+    "id": "136375506421676",
+    "name": "HTAA (Hospital Tengku Ampuan Afzan)",
+    "location": {
+      "city": "Kampong Penyor",
+      "country": "Malaysia",
+      "latitude": 3.8006137943589,
+      "longitude": 103.32173669314,
+      "zip": "25200"
+    },
+    "link": "https://www.facebook.com/136375496421677",
+    "checkins": 291102
+  },
+  {
+    "id": "148544745874938",
+    "name": "Scottish rite Childrens Hospital",
+    "location": {
+      "city": "Atlanta",
+      "country": "United States",
+      "latitude": 33.906019066595,
+      "longitude": -84.353771480033,
+      "state": "GA",
+      "street": "1001 Johnson ferry rd",
+      "zip": "30342"
+    },
+    "link": "https://www.facebook.com/148544739208272",
+    "checkins": 25567
+  },
+  {
+    "id": "718175998204911",
+    "name": "Hospital Nacional de Niños (Costa Rica)",
+    "location": {
+      "city": "San José",
+      "country": "Costa Rica",
+      "latitude": 9.9340652840671,
+      "longitude": -84.087795038877,
+      "street": "Paseo Colón",
+      "zip": "10103"
+    },
+    "link": "https://www.facebook.com/112510875438096",
+    "checkins": 145678
+  },
+  {
+    "id": "470496443150412",
+    "name": "โรงพยาบาลศัลยกรรมไอดี - ID Hospital",
+    "location": {
+      "city": "Seoul",
+      "country": "South Korea",
+      "latitude": 37.517876613839,
+      "longitude": 127.0240714647,
+      "street": "강남구 도산대로 142 (논현동 5-6) 아이디병원",
+      "zip": "06039"
+    },
+    "link": "https://www.facebook.com/177948805738512",
+    "checkins": 6682
+  },
+  {
+    "id": "192519334140443",
+    "name": "São Francisco Hospital e Maternidade",
+    "location": {
+      "city": "Niterói",
+      "country": "Brazil",
+      "latitude": -22.915890766876,
+      "longitude": -43.086972460666,
+      "state": "RJ",
+      "street": "Rua Tapajós, 325",
+      "zip": "24360-200"
+    },
+    "link": "https://www.facebook.com/192519314140445",
+    "checkins": 61892
+  },
+  {
+    "id": "475755455795817",
+    "name": "Tengku Ampuan Rahimah Hospital",
+    "location": {
+      "city": "Klang",
+      "country": "Malaysia",
+      "latitude": 3.020833,
+      "longitude": 101.439167,
+      "zip": "41200"
+    },
+    "link": "https://www.facebook.com/133053766732656",
+    "checkins": 192823
+  },
+  {
+    "id": "10150161265929205",
+    "name": "Children's Hospital of Michigan",
+    "location": {
+      "city": "Detroit",
+      "country": "United States",
+      "latitude": 42.35195683583,
+      "longitude": -83.05451935888,
+      "state": "MI",
+      "street": "3901 Beaubien St",
+      "zip": "48201"
+    },
+    "link": "https://www.facebook.com/79652119204",
+    "checkins": 200256
+  },
+  {
+    "id": "294150967588948",
+    "name": "Bangkok Hospital Thailand",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.749851771502,
+      "longitude": 100.58367906343,
+      "street": "2 Soi Phetchaburi 47 Yaek 10, Bang Kapi, Huai Khwang",
+      "zip": "10310"
+    },
+    "link": "https://www.facebook.com/294134670923911",
+    "checkins": 163148
+  },
+  {
+    "id": "971897829508950",
+    "name": "St James's University Hospital",
+    "location": {
+      "city": "Leeds",
+      "country": "United Kingdom",
+      "latitude": 53.8080555556,
+      "longitude": -1.51861111111
+    },
+    "link": "https://www.facebook.com/109140492451359",
+    "checkins": 81225
+  },
+  {
+    "id": "1453813791322619",
+    "name": "Intermed Hospital Mongolia",
+    "location": {
+      "city": "Ulaanbaatar",
+      "country": "Mongolia",
+      "latitude": 47.898606916759,
+      "longitude": 106.90536260605,
+      "street": "Chinggis ave-41, Khan-uul district-15",
+      "zip": "17040"
+    },
+    "link": "https://www.facebook.com/584770721560268",
+    "checkins": 7322
+  },
+  {
+    "id": "1650951885124317",
+    "name": "Bangkok Hospital Office Bangladesh",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.742484099091,
+      "longitude": 90.382912158966,
+      "street": "Suvastu Ittehad Square,level-4,House-11,Road-5,Mirpur road, Dhanmondi, Dhaka-1205,",
+      "zip": "1205"
+    },
+    "link": "https://www.facebook.com/1650950415124464",
+    "checkins": 429
+  },
+  {
+    "id": "1342083289220234",
+    "name": "مستشفى الامام الحجة عج الخيري - كربلاء Imam AlHujjah Hospital",
+    "location": {
+      "city": "Karbala'",
+      "country": "Iraq",
+      "latitude": 32.597308013365,
+      "longitude": 44.00767140262,
+      "street": "Imam Al-Hujjah Hospital- Karbala, Rasool St, Mudaraa District  Karbala, Republic of Iraq"
+    },
+    "link": "https://www.facebook.com/272881622807078",
+    "checkins": 1380
+  },
+  {
+    "id": "300880219948308",
+    "name": "Hospital Moinhos de Vento",
+    "location": {
+      "city": "Porto Alegre",
+      "country": "Brazil",
+      "latitude": -30.025568095783,
+      "longitude": -51.20845087482,
+      "state": "RS"
+    },
+    "link": "https://www.facebook.com/226168704086127",
+    "checkins": 227608
+  },
+  {
+    "id": "298965346975616",
+    "name": "โรงพยาบาลสุทธาเวช  คณะแพทยศาสตร์ มหาวิทยาลัยมหาสารคาม -Suddhavej Hospital",
+    "location": {
+      "city": "Maha Sarakam",
+      "country": "Thailand",
+      "latitude": 16.199669646538,
+      "longitude": 103.28521731847,
+      "street": "Faculty of Medicine, Mahasarakham University",
+      "zip": "44000"
+    },
+    "link": "https://www.facebook.com/298930230312461",
+    "checkins": 79648
+  },
+  {
+    "id": "842357322585159",
+    "name": "Hospital UNIBE",
+    "location": {
+      "city": "San José",
+      "country": "Costa Rica",
+      "latitude": 9.9616706010645,
+      "longitude": -84.064939795093,
+      "street": "200 metros al este del ICE, La Florida de Tibás",
+      "zip": "11301"
+    },
+    "link": "https://www.facebook.com/476195619201333",
+    "checkins": 707
+  },
+  {
+    "id": "145706108832714",
+    "name": "Baptist Memorial Hospital-Memphis",
+    "location": {
+      "city": "Memphis",
+      "country": "United States",
+      "latitude": 35.129364663747,
+      "longitude": -89.861090757699,
+      "state": "TN",
+      "street": "6019 Walnut Grove Rd",
+      "zip": "38120"
+    },
+    "link": "https://www.facebook.com/118487924887866",
+    "checkins": 151361
+  },
+  {
+    "id": "532827700185832",
+    "name": "Jose B. Lingad Memorial General Hospital",
+    "location": {
+      "city": "San Fernando",
+      "country": "Philippines",
+      "latitude": 15.034878860058,
+      "longitude": 120.68484288415,
+      "street": "Dolores",
+      "zip": "2000"
+    },
+    "link": "https://www.facebook.com/490766007725335",
+    "checkins": 55001
+  },
+  {
+    "id": "180100778706977",
+    "name": "UCSF Benioff Children's Hospitals",
+    "location": {
+      "city": "San Francisco",
+      "country": "United States",
+      "latitude": 37.765342001499,
+      "longitude": -122.39020969094,
+      "state": "CA",
+      "zip": "94158"
+    },
+    "link": "https://www.facebook.com/102349949815394",
+    "checkins": 103168
+  },
+  {
+    "id": "565174726885436",
+    "name": "Hospital Sultanah Bahiyah",
+    "location": {
+      "city": "Alor Setar",
+      "country": "Malaysia",
+      "latitude": 6.1485923304708,
+      "longitude": 100.40662323041
+    },
+    "link": "https://www.facebook.com/298876133515298",
+    "checkins": 248657
+  },
+  {
+    "id": "958972947583571",
+    "name": "Premier Hospital, Mombasa",
+    "location": {
+      "city": "Mombasa",
+      "country": "Kenya",
+      "latitude": -4.0350869805476,
+      "longitude": 39.708598522576,
+      "street": "Links Road, Nyali"
+    },
+    "link": "https://www.facebook.com/895166377297562",
+    "checkins": 1409
+  },
+  {
+    "id": "248587731821412",
+    "name": "The Royal Children's Hospital, Melbourne",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia",
+      "latitude": -37.793802498246,
+      "longitude": 144.94943849109,
+      "state": "VIC",
+      "street": "50 Flemington Road",
+      "zip": "3052"
+    },
+    "link": "https://www.facebook.com/248587695154749",
+    "checkins": 261968
+  },
+  {
+    "id": "1820322558273036",
+    "name": "Balsam Private Hospital",
+    "location": {
+      "city": "Irbil",
+      "country": "Iraq",
+      "latitude": 36.219894317159,
+      "longitude": 44.00829076767
+    },
+    "link": "https://www.facebook.com/1781822512123041",
+    "checkins": 434
+  },
+  {
+    "id": "1032282880149039",
+    "name": "Hashmanis Hospital",
+    "location": {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "latitude": 24.86990202172,
+      "longitude": 67.034365611465,
+      "street": "Near Numaish Chorangi,",
+      "zip": "75600"
+    },
+    "link": "https://www.facebook.com/121335127910490",
+    "checkins": 1955
+  },
+  {
+    "id": "566775379999950",
+    "name": "John Radcliffe Hospital",
+    "location": {
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "latitude": 51.764201913032,
+      "longitude": -1.2204082276572,
+      "zip": "OX3 9DU"
+    },
+    "link": "https://www.facebook.com/144530888891070",
+    "checkins": 127099
+  },
+  {
+    "id": "678124892336614",
+    "name": "Vejthani Hospital - ভেজথানি হাসপাতাল",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.771929695564,
+      "longitude": 100.63694361357,
+      "street": "Vejthani Hospital",
+      "zip": "10240"
+    },
+    "link": "https://www.facebook.com/678093172339786",
+    "checkins": 1357
+  },
+  {
+    "id": "401901520015962",
+    "name": "Vichaiyut Hospital  โรงพยาบาล วิชัยยุทธ",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.780530604691,
+      "longitude": 100.53291983111,
+      "street": "Vichaiyut Medical Center",
+      "zip": "10400"
+    },
+    "link": "https://www.facebook.com/401901156682665",
+    "checkins": 197329
+  },
+  {
+    "id": "496752814093926",
+    "name": "Saudi German Hospital Ajman",
+    "location": {
+      "city": "Al Ajman",
+      "country": "United Arab Emirates",
+      "latitude": 25.391954674756,
+      "longitude": 55.449542999268
+    },
+    "link": "https://www.facebook.com/496752780760596",
+    "checkins": 686
+  },
+  {
+    "id": "879495108868576",
+    "name": "Maritime And Hospitality Academy - MAHA",
+    "location": {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "latitude": 16.80496217372,
+      "longitude": 96.181547641754,
+      "street": "No. 20, Myo Pat Street, Tarmwe Township",
+      "zip": "11211"
+    },
+    "link": "https://www.facebook.com/176659172485510",
+    "checkins": 958
+  },
+  {
+    "id": "353176568768486",
+    "name": "Eden Gardens Private Hospital",
+    "location": {
+      "city": "Pietermaritzburg",
+      "country": "South Africa",
+      "latitude": -29.642576618073,
+      "longitude": 30.358277052221,
+      "street": "100 Archie Gumede Drive",
+      "zip": "3201"
+    },
+    "link": "https://www.facebook.com/353176562101820",
+    "checkins": 1500
+  },
+  {
+    "id": "1924502661119578",
+    "name": "Royal Hospital / مستشفی رویال / نەخۆشخانەی ڕۆیاڵ",
+    "location": {
+      "city": "As Sulaymaniyah",
+      "country": "Iraq",
+      "latitude": 35.566117406242,
+      "longitude": 45.451293338791,
+      "street": "Royal Hospital, Tuy Melîk, Sulaymaniyah Governorate",
+      "zip": "46001"
+    },
+    "link": "https://www.facebook.com/1922156954687482",
+    "checkins": 955
+  },
+  {
+    "id": "141740189565106",
+    "name": "Hospital Regional del Magdalena Medio",
+    "location": {
+      "city": "Barrancabermeja",
+      "country": "Colombia",
+      "latitude": 7.0675677742531,
+      "longitude": -73.861362934113,
+      "street": "Carrera 17 # 57-119 Barrio Pueblo Nuevo",
+      "zip": "687031"
+    },
+    "link": "https://www.facebook.com/141736656232126",
+    "checkins": 2624
+  },
+  {
+    "id": "462985000929502",
+    "name": "โรงพยาบาลแพทย์รังสิต2 Patrangsit Hospital2",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.963678468209,
+      "longitude": 100.6213544114
+    },
+    "link": "https://www.facebook.com/462984997596169",
+    "checkins": 13615
+  },
+  {
+    "id": "769142696452960",
+    "name": "National Children's Hospital",
+    "location": {
+      "city": "Tondo",
+      "country": "Philippines",
+      "latitude": 14.620593374956,
+      "longitude": 121.02115923556,
+      "street": "264 E. Rodriguez Sr. Boulevard Room 115, 1/F, National Children's Hospital Building",
+      "zip": "1102"
+    },
+    "link": "https://www.facebook.com/248387295195172",
+    "checkins": 91437
+  },
+  {
+    "id": "146472665895751",
+    "name": "Santa Rosa Children's Hospital",
+    "location": {
+      "city": "San Antonio",
+      "country": "United States",
+      "latitude": 29.42756797451,
+      "longitude": -98.498695862745,
+      "state": "TX",
+      "street": "333 N Santa Rosa Ave",
+      "zip": "78207"
+    },
+    "link": "https://www.facebook.com/146472659229085",
+    "checkins": 36338
+  },
+  {
+    "id": "829343703802357",
+    "name": "North Okkalapa General Hospital",
+    "location": {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "latitude": 16.901184,
+      "longitude": 96.157258
+    },
+    "link": "https://www.facebook.com/286188938117839",
+    "checkins": 58044
+  },
+  {
+    "id": "472260166145648",
+    "name": "University Hospital of Wales",
+    "location": {
+      "city": "Cardiff",
+      "country": "United Kingdom",
+      "latitude": 51.507,
+      "longitude": -3.19,
+      "zip": "CF14 4XW"
+    },
+    "link": "https://www.facebook.com/133246766713658",
+    "checkins": 135549
+  },
+  {
+    "id": "109517220433283",
+    "name": "مستشفى الكندي - Al-Kindi Hospital",
+    "location": {
+      "city": "Amman",
+      "country": "Jordan",
+      "latitude": 31.968746976317,
+      "longitude": 35.911774635315,
+      "street": "جبل الحسين - شارع بئر السبع",
+      "zip": "11192"
+    },
+    "link": "https://www.facebook.com/109517080433297",
+    "checkins": 690
+  },
+  {
+    "id": "1033597743339827",
+    "name": "CGH Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.888848977698,
+      "longitude": 100.6060552597,
+      "street": "สะพานใหม่ ดอนเมือง",
+      "zip": "10220"
+    },
+    "link": "https://www.facebook.com/187829274583349",
+    "checkins": 127794
+  },
+  {
+    "id": "400476213347665",
+    "name": "Hospital Santa Marcelina",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.554459871751,
+      "longitude": -46.46110425632,
+      "state": "SP",
+      "street": "Rua Santa Marcelina, 177",
+      "zip": "08270-070"
+    },
+    "link": "https://www.facebook.com/229553507106604",
+    "checkins": 128198
+  },
+  {
+    "id": "818110581535519",
+    "name": "Hospital do Rocio",
+    "location": {
+      "city": "Campo Largo",
+      "country": "Brazil",
+      "latitude": -25.4434028,
+      "longitude": -49.5351518,
+      "state": "PR",
+      "street": "Rua Maria Aparecida de Oliveira, 599",
+      "zip": "83604-390"
+    },
+    "link": "https://www.facebook.com/818104404869470",
+    "checkins": 89908
+  },
+  {
+    "id": "1411462165566818",
+    "name": "Hospital Adventista de Belém",
+    "location": {
+      "city": "Belém",
+      "country": "Brazil",
+      "latitude": -1.435219317896,
+      "longitude": -48.457167805385,
+      "state": "PA",
+      "street": "1758  Avenida Almirante Barroso",
+      "zip": "66095-100"
+    },
+    "link": "https://www.facebook.com/174311295948584",
+    "checkins": 79771
+  },
+  {
+    "id": "863736883682111",
+    "name": "Norfolk and Norwich University Hospital",
+    "location": {
+      "city": "Norwich",
+      "country": "United Kingdom",
+      "latitude": 52.617,
+      "longitude": 1.22
+    },
+    "link": "https://www.facebook.com/103270406395433",
+    "checkins": 89239
+  },
+  {
+    "id": "146809172678374",
+    "name": "Bangkok Hospital Muangraj โรงพยาบาลกรุงเทพเมืองราช",
+    "location": {
+      "city": "Ratchaburi",
+      "country": "Thailand",
+      "latitude": 13.547835457143,
+      "longitude": 99.812391266666,
+      "street": "59/3 ถนนเพชรเกษม ตำบลหน้าเมือง อำเภอเมือง",
+      "zip": "70000"
+    },
+    "link": "https://www.facebook.com/146606776031947",
+    "checkins": 60691
+  },
+  {
+    "id": "617486885080932",
+    "name": "Bethsaida Hospitals",
+    "location": {
+      "city": "Depok",
+      "country": "Indonesia",
+      "latitude": -6.2546702736922,
+      "longitude": 106.62238075822
+    },
+    "link": "https://www.facebook.com/128792917283667",
+    "checkins": 36263
+  },
+  {
+    "id": "318537181921685",
+    "name": "Apollo Hospitals - Navi Mumbai",
+    "location": {
+      "city": "Navi Mumbai (New Mumbai)",
+      "country": "India",
+      "latitude": 19.02063947758,
+      "longitude": 73.028906237312,
+      "street": "Plot # 13, Parsik Hill Road, Off Uran Road, Sector 23, CBD Belapur",
+      "zip": "400614"
+    },
+    "link": "https://www.facebook.com/318537155255021",
+    "checkins": 5669
+  },
+  {
+    "id": "263103664041902",
+    "name": "SSC - Shwe Gon Daing Hospital",
+    "location": {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "latitude": 16.810991925853,
+      "longitude": 96.165824711735,
+      "street": "No. 7, East Shwe Gon Daing Road",
+      "zip": "Bahan Township"
+    },
+    "link": "https://www.facebook.com/255630368122565",
+    "checkins": 56575
+  },
+  {
+    "id": "419248748442454",
+    "name": "โรงพยาบาลเพชรเวช-PetcharavejHospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.743327286781,
+      "longitude": 100.59362715124,
+      "street": "รพ.เพชรเวช",
+      "zip": "10310"
+    },
+    "link": "https://www.facebook.com/419248718442457",
+    "checkins": 136253
+  },
+  {
+    "id": "441479862602781",
+    "name": "Silchar Medical College and Hospital",
+    "location": {
+      "city": "Silchar",
+      "country": "India",
+      "latitude": 24.775583639,
+      "longitude": 92.793450582001
+    },
+    "link": "https://www.facebook.com/161098843974219",
+    "checkins": 83060
+  },
+  {
+    "id": "474882535933405",
+    "name": "Hospital de Amor",
+    "location": {
+      "city": "Barretos",
+      "country": "Brazil",
+      "latitude": -20.580959002642,
+      "longitude": -48.568505167813,
+      "state": "SP",
+      "street": "Rua Antenor Duarte Villela, 1331 Dr. Paulo Prata",
+      "zip": "14784-400"
+    },
+    "link": "https://www.facebook.com/117547065000289",
+    "checkins": 133541
+  },
+  {
+    "id": "119665088115453",
+    "name": "Hospital São Vicente - FUNEF",
+    "location": {
+      "city": "Curitiba",
+      "country": "Brazil",
+      "latitude": -25.435284709565,
+      "longitude": -49.280157408973,
+      "state": "PR",
+      "street": "Av. Vicente Machado, 401",
+      "zip": "80420-010"
+    },
+    "link": "https://www.facebook.com/119659408116021",
+    "checkins": 32917
+  },
+  {
+    "id": "172404712789485",
+    "name": "Hospital Tuanku Fauziah",
+    "location": {
+      "city": "Kangar",
+      "country": "Malaysia",
+      "latitude": 6.440905695658,
+      "longitude": 100.19088885053,
+      "street": "Hospital Tuanku Fauziah",
+      "zip": "01000"
+    },
+    "link": "https://www.facebook.com/172404702789486",
+    "checkins": 163742
+  },
+  {
+    "id": "226693640726556",
+    "name": "Hospital Wanita Dan Kanak-Kanak Sabah",
+    "location": {
+      "city": "Kota Kinabalu",
+      "country": "Malaysia",
+      "latitude": 6.0139792836842,
+      "longitude": 116.11960746365,
+      "street": "Likas",
+      "zip": "88450"
+    },
+    "link": "https://www.facebook.com/226693624059891",
+    "checkins": 94918
+  },
+  {
+    "id": "1073165366103107",
+    "name": "โรงพยาบาลสุขุมวิท Sukumvit Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.718977492641,
+      "longitude": 100.58708063585,
+      "street": "1411 ถนนสุขุมวิท  แขวงพระโขนงเหนือ เขตวัฒนา",
+      "zip": "10110"
+    },
+    "link": "https://www.facebook.com/112495972170056",
+    "checkins": 132795
+  },
+  {
+    "id": "126588524063589",
+    "name": "The Children's Hospital at OU Medicine",
+    "location": {
+      "city": "Oklahoma City",
+      "country": "United States",
+      "latitude": 35.481113192824,
+      "longitude": -97.497188263722,
+      "state": "OK"
+    },
+    "link": "https://www.facebook.com/126588514063590",
+    "checkins": 271606
+  },
+  {
+    "id": "864936010517403",
+    "name": "Asian City Hospital",
+    "location": {
+      "city": "Patna",
+      "country": "India",
+      "latitude": 25.635825830818,
+      "longitude": 85.104043106135,
+      "street": "Behind P & M Mall, Patliputra Industrial Area",
+      "zip": "800013"
+    },
+    "link": "https://www.facebook.com/864936007184070",
+    "checkins": 240
+  },
+  {
+    "id": "306014389549217",
+    "name": "Brahmanbaria Medical College Hospital",
+    "location": {
+      "city": "Brahmanbaria",
+      "country": "Bangladesh",
+      "latitude": 24.001918341409,
+      "longitude": 91.111204372601,
+      "street": "Ghatura,Brahmanbaria",
+      "zip": "3400"
+    },
+    "link": "https://www.facebook.com/304279836389339",
+    "checkins": 7733
+  },
+  {
+    "id": "377693725757467",
+    "name": "Ministère de la santé de la population et de la réforme hospitalière",
+    "location": {
+      "city": "El Madania",
+      "country": "Algeria",
+      "latitude": 36.747114817925,
+      "longitude": 3.062396668285,
+      "street": "Ministère de la Santé, de la Population et de la Réforme Hospitalière 125, Bd Abderrahmane Laala, El-Madania  Alger",
+      "zip": "16075"
+    },
+    "link": "https://www.facebook.com/375136686013171",
+    "checkins": 1162
+  },
+  {
+    "id": "621930557966673",
+    "name": "BRB Hospitals Ltd",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.751904354603,
+      "longitude": 90.385688245296,
+      "street": "77/A, Panthapath",
+      "zip": "1215"
+    },
+    "link": "https://www.facebook.com/591526361007093",
+    "checkins": 12915
+  },
+  {
+    "id": "131682071658378",
+    "name": "مستشفى سبيتار - aspetar hospital",
+    "location": {
+      "city": "Misurata",
+      "country": "Libya",
+      "latitude": 32.343543843614,
+      "longitude": 15.098369121552,
+      "street": "الطريق الساحلي 1 كلم من مدخل مصراتة الشرقي"
+    },
+    "link": "https://www.facebook.com/108717853954800",
+    "checkins": 276
+  },
+  {
+    "id": "144293018967280",
+    "name": "Hospital de Clínicas da Unicamp",
+    "location": {
+      "city": "Campinas",
+      "country": "Brazil",
+      "latitude": -22.82638889,
+      "longitude": -47.06416667,
+      "state": "SP"
+    },
+    "link": "https://www.facebook.com/106420292754553",
+    "checkins": 76646
+  },
+  {
+    "id": "379571305515317",
+    "name": "Centre Hospitalier de Valenciennes",
+    "location": {
+      "city": "Valenciennes",
+      "country": "France",
+      "latitude": 50.360811910963,
+      "longitude": 3.4995486576075,
+      "street": "Avenue Désandrouin",
+      "zip": "59300"
+    },
+    "link": "https://www.facebook.com/379557115516736",
+    "checkins": 22801
+  },
+  {
+    "id": "104025304561706",
+    "name": "Baguio General Hospital and Medical Center",
+    "location": {
+      "city": "Baguio City",
+      "country": "Philippines",
+      "latitude": 16.401211450505,
+      "longitude": 120.59611960597,
+      "street": "Governor Pack Road, Baguio City",
+      "zip": "2600"
+    },
+    "link": "https://www.facebook.com/104021147895455",
+    "checkins": 263
+  },
+  {
+    "id": "1733509653559255",
+    "name": "Hospital Angeles del Carmen",
+    "location": {
+      "city": "Guadalajara",
+      "country": "Mexico",
+      "latitude": 20.680909664589,
+      "longitude": -103.398123578,
+      "street": "Tarascos 3435",
+      "zip": "44670"
+    },
+    "link": "https://www.facebook.com/1733509613559259",
+    "checkins": 15745
+  },
+  {
+    "id": "1849541528479570",
+    "name": "Aung Yadana Hospital",
+    "location": {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "latitude": 16.832495801426,
+      "longitude": 96.179404556751,
+      "street": "Thirigon Estate, Thingankyun Township",
+      "zip": "11071"
+    },
+    "link": "https://www.facebook.com/164214570345616",
+    "checkins": 6944
+  },
+  {
+    "id": "294599327812237",
+    "name": "โรงพยาบาลทักษิณ Thaksin Hospital สุราษฎร์ธานี",
+    "location": {
+      "city": "Surat Thani",
+      "country": "Thailand",
+      "latitude": 9.148350947389,
+      "longitude": 99.332762665233,
+      "street": "อ.เมือง",
+      "zip": "84000"
+    },
+    "link": "https://www.facebook.com/294599324478904",
+    "checkins": 79445
+  },
+  {
+    "id": "630355910418790",
+    "name": "Rajagiri Hospital Kochi",
+    "location": {
+      "city": "Aluva",
+      "country": "India",
+      "latitude": 10.08763091267,
+      "longitude": 76.388216379475,
+      "street": "Aluva - Munnar Road, Chunagamvely",
+      "zip": "683112"
+    },
+    "link": "https://www.facebook.com/630338967087151",
+    "checkins": 14816
+  },
+  {
+    "id": "906396779465691",
+    "name": "مستشفى المعلمين بالجزيرة - El Moalmeen Hospital",
+    "location": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.044448237617,
+      "longitude": 31.224575680942,
+      "street": "المعلمين بالجزيره"
+    },
+    "link": "https://www.facebook.com/906396752799027",
+    "checkins": 346
+  },
+  {
+    "id": "343326599036687",
+    "name": "Hospital Universitario De Santa Maria",
+    "location": {
+      "city": "Santa Maria",
+      "country": "Brazil",
+      "latitude": -29.714206983884,
+      "located_in": "208743795920007",
+      "longitude": -53.715418787019,
+      "state": "RS",
+      "street": "Avenida Roraima, S/N",
+      "zip": "97105-340"
+    },
+    "link": "https://www.facebook.com/343326585703355",
+    "checkins": 93434
+  },
+  {
+    "id": "107957333949365",
+    "name": "Evercare Hospital Lahore",
+    "location": {
+      "city": "Lahore",
+      "country": "Pakistan",
+      "latitude": 31.437319371279,
+      "longitude": 74.281168113394,
+      "street": "D1 Nespak Housing Scheme, Lahore, Punjab",
+      "zip": "54000"
+    },
+    "link": "https://www.facebook.com/107957040616061",
+    "checkins": 742
+  },
+  {
+    "id": "678026915674104",
+    "name": "Pun Hlaing Siloam Hospitals",
+    "location": {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "latitude": 16.840809508211,
+      "longitude": 96.089446824847,
+      "street": "Pun Hlaing Golf Estate Avenue"
+    },
+    "link": "https://www.facebook.com/678026889007440",
+    "checkins": 57623
+  },
+  {
+    "id": "1463042533946254",
+    "name": "Colombia Asia International Hospital, Jln.Listrik,Medan",
+    "location": {
+      "city": "Medan",
+      "country": "Indonesia",
+      "latitude": 3.5856986884073,
+      "longitude": 98.676716165652
+    },
+    "link": "https://www.facebook.com/1463042520612922",
+    "checkins": 60130
+  },
+  {
+    "id": "657737460934724",
+    "name": "Royal Bahrain Hospital",
+    "location": {
+      "city": "Manama",
+      "country": "Bahrain",
+      "latitude": 26.212988720002,
+      "longitude": 50.570991516551,
+      "street": "King Abdul Aziz Avenue",
+      "zip": "65104"
+    },
+    "link": "https://www.facebook.com/169023389806136",
+    "checkins": 8553
+  },
+  {
+    "id": "815867711763479",
+    "name": "Sarawak General Hospital",
+    "location": {
+      "city": "Kuching",
+      "country": "Malaysia",
+      "latitude": 1.5434913749393,
+      "longitude": 110.33946057258,
+      "street": "Jalan Hospital Timur",
+      "zip": "93150"
+    },
+    "link": "https://www.facebook.com/143688255648098",
+    "checkins": 126961
+  },
+  {
+    "id": "243426069342856",
+    "name": "Iloilo Mission Hospital",
+    "location": {
+      "city": "Jaro",
+      "country": "Philippines",
+      "latitude": 10.71444554323,
+      "longitude": 122.56062453349,
+      "street": "Mission Rd",
+      "zip": "5000"
+    },
+    "link": "https://www.facebook.com/243423359343127",
+    "checkins": 36004
+  },
+  {
+    "id": "523585037664031",
+    "name": "Parami Hospital",
+    "location": {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "latitude": 16.849868579109,
+      "longitude": 96.156368347608,
+      "street": "Parami Road",
+      "zip": "11062"
+    },
+    "link": "https://www.facebook.com/172855346070337",
+    "checkins": 49311
+  },
+  {
+    "id": "688269614540952",
+    "name": "Patna Medical College and Hospital",
+    "location": {
+      "city": "Patna",
+      "country": "India",
+      "latitude": 25.620577134839,
+      "longitude": 85.162305247456
+    },
+    "link": "https://www.facebook.com/459071850794064",
+    "checkins": 43197
+  },
+  {
+    "id": "534243873577449",
+    "name": "Hospital Sultan Abdul Halim Sungai Petani Kedah",
+    "location": {
+      "city": "Sungai Petani",
+      "country": "Malaysia",
+      "latitude": 5.6699802735666,
+      "longitude": 100.51737603793,
+      "street": "Jalan Lencongan Timur",
+      "zip": "08000"
+    },
+    "link": "https://www.facebook.com/534243863577450",
+    "checkins": 61480
+  },
+  {
+    "id": "1471431456387036",
+    "name": "Al- Essra Hospital Official Page/ مستشفى الإسراء الصفحة الرسمية",
+    "location": {
+      "city": "Amman",
+      "country": "Jordan",
+      "latitude": 32.016964047194,
+      "longitude": 35.865839123726,
+      "street": "عمان- شارع الملكه رانيا العبدالله (مقابل مسجد الجامعة الاردنية)"
+    },
+    "link": "https://www.facebook.com/145155895681272",
+    "checkins": 18
+  },
+  {
+    "id": "1895242720504695",
+    "name": "Mayo Clinic Hospital, Saint Marys Campus",
+    "location": {
+      "city": "Rochester",
+      "country": "United States",
+      "latitude": 44.0195792,
+      "longitude": -92.4811438,
+      "state": "MN",
+      "street": "1216 Second St. SW",
+      "zip": "55902"
+    },
+    "link": "https://www.facebook.com/138381599524158",
+    "checkins": 98602
+  },
+  {
+    "id": "636911183157645",
+    "name": "Westeye Hospital Erbil",
+    "location": {
+      "city": "Irbil",
+      "country": "Iraq",
+      "latitude": 36.169986671437,
+      "longitude": 44.024511856585,
+      "street": "Erbil,runaki street",
+      "zip": "44001"
+    },
+    "link": "https://www.facebook.com/524729677709130",
+    "checkins": 483
+  },
+  {
+    "id": "366315410094375",
+    "name": "CMC Main Hospital",
+    "location": {
+      "city": "Charlotte",
+      "country": "United States",
+      "latitude": 35.203593113655,
+      "located_in": "893116054032616",
+      "longitude": -80.839015847088,
+      "state": "NC",
+      "street": "1000 Blythe Blvd, Charlotte, NC 28203",
+      "zip": "28203"
+    },
+    "link": "https://www.facebook.com/366315396761043",
+    "checkins": 26916
+  },
+  {
+    "id": "1438676002907267",
+    "name": "Hospital Umum Sarawak",
+    "location": {
+      "city": "Kuching",
+      "country": "Malaysia",
+      "latitude": 1.54340585679,
+      "longitude": 110.33953789911,
+      "zip": "93400"
+    },
+    "link": "https://www.facebook.com/1438675996240601",
+    "checkins": 51866
+  },
+  {
+    "id": "674517312752116",
+    "name": "โรงพยาบาลวัฒนแพทย์ ตรัง Wattanapat Hospital Trang",
+    "location": {
+      "city": "ตำบลทับเที่ยง อำเภอเมืองตรัง จังหวัดตรัง ",
+      "latitude": 7.5636729410545,
+      "longitude": 99.617393016815,
+      "street": "ถนน พัทลุง",
+      "zip": "92000"
+    },
+    "link": "https://www.facebook.com/225218457682006",
+    "checkins": 204158
+  },
+  {
+    "id": "815024438540543",
+    "name": "Kims Hospital Trivandrum",
+    "location": {
+      "city": "Thiruvananthapuram",
+      "country": "India",
+      "latitude": 8.5139195370681,
+      "longitude": 76.90934040383,
+      "street": "KIMS Hospitals",
+      "zip": "695011"
+    },
+    "link": "https://www.facebook.com/808475342528786",
+    "checkins": 27182
+  },
+  {
+    "id": "640853792630385",
+    "name": "Hospital Angeles Chihuahua",
+    "location": {
+      "city": "Chihuahua",
+      "country": "Mexico",
+      "latitude": 28.6300819,
+      "longitude": -106.1246898,
+      "street": "Hacienda del Valle No. 7120",
+      "zip": "31217"
+    },
+    "link": "https://www.facebook.com/228027147246387",
+    "checkins": 45088
+  },
+  {
+    "id": "1705173953056300",
+    "name": "Gold Coast University Hospital - GCUH",
+    "location": {
+      "city": "Southport",
+      "country": "Australia",
+      "latitude": -27.960036842944,
+      "longitude": 153.38167024892,
+      "state": "QLD",
+      "street": "1 Hospital Boulevard",
+      "zip": "4215"
+    },
+    "link": "https://www.facebook.com/1705164119723950",
+    "checkins": 74199
+  },
+  {
+    "id": "1603934243154662",
+    "name": "Hospital Traumatologico Dr. Ney Arias Lora",
+    "location": {
+      "city": "Santo Domingo Norte",
+      "country": "Dominican Republic",
+      "latitude": 18.547364417986,
+      "longitude": -69.883968218319,
+      "street": "Avenida Charles de Gaulle",
+      "zip": "11201"
+    },
+    "link": "https://www.facebook.com/1600470190167734",
+    "checkins": 4731
+  },
+  {
+    "id": "2030087153706071",
+    "name": "မင်္ဂလာမွန်ဆေးရုံ - Mingalarmon Hospital",
+    "location": {
+      "city": "Mandalay",
+      "country": "Myanmar",
+      "latitude": 21.984597314309,
+      "longitude": 96.083936691284,
+      "street": "80 street, between 24 street and 25 street, Aung Myay Thar Zan Township",
+      "zip": "05013"
+    },
+    "link": "https://www.facebook.com/2030087103706076",
+    "checkins": 1472
+  },
+  {
+    "id": "1248996191844262",
+    "name": "Saudi German Hospital Dubai",
+    "location": {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.097239121101,
+      "longitude": 55.183671712875,
+      "street": "Al-Barsha 3 , Hassa Street",
+      "zip": "391093"
+    },
+    "link": "https://www.facebook.com/323396437737580",
+    "checkins": 15373
+  },
+  {
+    "id": "107874384235183",
+    "name": "MP Birla Hospital Satna",
+    "location": {
+      "city": "Satna",
+      "country": "India",
+      "latitude": 24.58252,
+      "longitude": 80.85394,
+      "street": "M.P. Birla Hospital J.R. Birla Road, Post Birla Vikas",
+      "zip": "485001"
+    },
+    "link": "https://www.facebook.com/106410324381589",
+    "checkins": 144
+  },
+  {
+    "id": "147361825872193",
+    "name": "Queen Alexandra Hospital",
+    "location": {
+      "city": "Cosham",
+      "country": "United Kingdom",
+      "latitude": 50.8501631,
+      "longitude": -1.0703207,
+      "zip": "PO6 3LY"
+    },
+    "link": "https://www.facebook.com/147361819205527",
+    "checkins": 42518
+  },
+  {
+    "id": "474903395893289",
+    "name": "Hospital Enche' Besar Hajjah Khalsom, Kluang",
+    "location": {
+      "city": "Kluang",
+      "country": "Malaysia",
+      "latitude": 2.0069119593197,
+      "longitude": 103.3477211303,
+      "zip": "86000"
+    },
+    "link": "https://www.facebook.com/474903385893290",
+    "checkins": 150286
+  },
+  {
+    "id": "129653280720590",
+    "name": "Colonial War Memorial Hospital",
+    "location": {
+      "city": "Suva",
+      "country": "Fiji",
+      "latitude": -18.134758980503,
+      "longitude": 178.43361139297
+    },
+    "link": "https://www.facebook.com/126375854381666",
+    "checkins": 83854
+  },
+  {
+    "id": "148037178622734",
+    "name": "Hospital Metropolitano ”Dr. Bernardo Sepulveda\". Secretaria de Salud NL.",
+    "location": {
+      "city": "San Nicolás de los Garza",
+      "country": "Mexico",
+      "latitude": 25.714134094924,
+      "longitude": -100.27431277023,
+      "zip": "66480"
+    },
+    "link": "https://www.facebook.com/148037158622736",
+    "checkins": 114350
+  },
+  {
+    "id": "867262753313032",
+    "name": "S spine and nerve hospital-โรงพยาบาลเฉพาะทางด้านกระดูกสันหลังและระบบประสาท",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.784444794146,
+      "longitude": 100.6073319912,
+      "street": "s spine and nerve ถนนประดิษฐ์มนูธรรม แขวงวังทองหลาง เขตวังทองหลาง กทม.",
+      "zip": "10310"
+    },
+    "link": "https://www.facebook.com/502050066500971",
+    "checkins": 6787
+  },
+  {
+    "id": "302315813310153",
+    "name": "Hospital Metropolitano de Santiago HOMS",
+    "location": {
+      "city": "Santiago de los Caballeros",
+      "country": "Dominican Republic",
+      "latitude": 19.43582494,
+      "longitude": -70.660911143,
+      "street": "Autopista Duarte Km. 2.8, Santiago Republica Dominicana",
+      "zip": "51000"
+    },
+    "link": "https://www.facebook.com/226845394190529",
+    "checkins": 65916
+  },
+  {
+    "id": "1564486063796603",
+    "name": "Apollo Hospitals Ahmedabad",
+    "location": {
+      "city": "Gandhinagar",
+      "country": "India",
+      "latitude": 23.109549669235,
+      "longitude": 72.626074521654,
+      "street": "Branch No 1a, Bhat Gidc Estate, Gandhi Nagar, GIDC Bhat",
+      "zip": "382428"
+    },
+    "link": "https://www.facebook.com/1564486030463273",
+    "checkins": 2238
+  },
+  {
+    "id": "773903979455015",
+    "name": "St. Paul's Hospital Millennium Medical College-SPHMMC",
+    "location": {
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "latitude": 9.0112333322003,
+      "longitude": 38.755645751953,
+      "street": "1271 Swaziland Street"
+    },
+    "link": "https://www.facebook.com/209934025852016",
+    "checkins": 1318
+  },
+  {
+    "id": "1696706470589214",
+    "name": "Southend Hospital",
+    "location": {
+      "city": "Southend-on-Sea",
+      "country": "United Kingdom",
+      "latitude": 51.553816032154,
+      "longitude": 0.68847842971775,
+      "street": "Southend University Hospital NHS Foundation Trust, Prittlewell Chase",
+      "zip": "SS0 0RY"
+    },
+    "link": "https://www.facebook.com/1505774209682442",
+    "checkins": 87613
+  },
+  {
+    "id": "577481879010251",
+    "name": "EMJJ Hospital&ЭМЖЖ Эмнэлэг",
+    "location": {
+      "city": "Ulaanbaatar",
+      "country": "Mongolia",
+      "latitude": 47.917147384058,
+      "longitude": 106.92851543427,
+      "street": "СБД, 1-р төрөхийн зүүн талд"
+    },
+    "link": "https://www.facebook.com/156157514476025",
+    "checkins": 777
+  },
+  {
+    "id": "754554324560832",
+    "name": "Liaquat National Hospital",
+    "location": {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "latitude": 24.89106865717,
+      "longitude": 67.068494505783,
+      "street": "Liaquat National Hospital & Medical College"
+    },
+    "link": "https://www.facebook.com/142708552412082",
+    "checkins": 82972
+  },
+  {
+    "id": "1416735051949919",
+    "name": "Nawaloka Hospital Negombo - Sri Lanka",
+    "location": {
+      "city": "Negombo",
+      "country": "Sri Lanka",
+      "latitude": 7.2093155072167,
+      "longitude": 79.849660507249,
+      "street": "169 Colombo Road Negombo",
+      "zip": "11500"
+    },
+    "link": "https://www.facebook.com/1415657138724377",
+    "checkins": 7612
+  },
+  {
+    "id": "348607161847014",
+    "name": "Hospital de Base Rio Preto",
+    "location": {
+      "city": "São José do Rio Prêto",
+      "country": "Brazil",
+      "latitude": -20.82819633241,
+      "longitude": -49.397576,
+      "state": "SP",
+      "street": "Av. Brigadeiro Faria Lima, 5544, Vila São Pedro",
+      "zip": "15090000"
+    },
+    "link": "https://www.facebook.com/245908592116872",
+    "checkins": 96167
+  },
+  {
+    "id": "248463752370124",
+    "name": "Akilah Hospital - مستشفى عاقلة",
+    "location": {
+      "city": "Amman",
+      "country": "Jordan",
+      "latitude": 31.951839069855,
+      "longitude": 35.909703969955,
+      "street": "شارع أبو تمّام، الدوار الثالث، جبل عمّان"
+    },
+    "link": "https://www.facebook.com/248463749036791",
+    "checkins": 917
+  },
+  {
+    "id": "101229481575754",
+    "name": "Beirut Private Hospital مستشفى بيروت الاهلي",
+    "location": {
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.358988260128,
+      "longitude": 44.423552576349,
+      "street": "شارع فلسطين, بغداد, العراق"
+    },
+    "link": "https://www.facebook.com/101214041577298",
+    "checkins": 96
+  },
+  {
+    "id": "1837365453175147",
+    "name": "Mariano Marcos Memorial Hospital and Medical Center-HEPO/Public Health",
+    "location": {
+      "city": "Batac",
+      "country": "Philippines",
+      "latitude": 18.06099849091,
+      "longitude": 120.55970213766,
+      "street": "Batac,Ilocos Norte",
+      "zip": "2906"
+    },
+    "link": "https://www.facebook.com/1837363536508672",
+    "checkins": 16395
+  },
+  {
+    "id": "177510488962745",
+    "name": "Hospital Metropolitano Costa Rica",
+    "location": {
+      "city": "San José",
+      "country": "Costa Rica",
+      "latitude": 9.93126838826,
+      "longitude": -84.085352639169,
+      "street": "300 m sur del costado oeste del Parque La Merced. Calle 14, Avenida 8."
+    },
+    "link": "https://www.facebook.com/177510475629413",
+    "checkins": 13175
+  },
+  {
+    "id": "10152223036057608",
+    "name": "The Children's Hospital at Westmead",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia",
+      "latitude": -33.801561272267,
+      "longitude": 150.99213041145,
+      "state": "NSW",
+      "street": "Cnr Hawkesbury Rd and Hainsworth St",
+      "zip": "2145"
+    },
+    "link": "https://www.facebook.com/56464817607",
+    "checkins": 90780
+  },
+  {
+    "id": "838871562827808",
+    "name": "Chinese General Hospital and Medical Center",
+    "location": {
+      "city": "Quezon City",
+      "country": "Philippines",
+      "latitude": 14.626326348977,
+      "longitude": 120.98799794912
+    },
+    "link": "https://www.facebook.com/216625438385760",
+    "checkins": 305785
+  },
+  {
+    "id": "109307640682290",
+    "name": "โรงพยาบาลหาดใหญ่ Hatyai Hospital",
+    "location": {
+      "city": "Hat Yai",
+      "country": "Thailand",
+      "latitude": 7.0167848231087,
+      "longitude": 100.46777553259,
+      "street": "โรงพยาบาลหาดใหญ่",
+      "zip": "90110"
+    },
+    "link": "https://www.facebook.com/109307637348957",
+    "checkins": 20860
+  },
+  {
+    "id": "2618309474855543",
+    "name": "Impulse Hospital Dhaka",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.766297345792,
+      "longitude": 90.399359464645,
+      "street": "304/E Shaheed Tazuddin Avenue, Tejgaon (Behind Channel-i office)",
+      "zip": "1208"
+    },
+    "link": "https://www.facebook.com/2596824807004010",
+    "checkins": 2057
+  },
+  {
+    "id": "306904469322220",
+    "name": "Nnamdi Azikiwe University Teaching Hospital, Nnewi, Anambra State.",
+    "location": {
+      "city": "Nnewi",
+      "country": "Nigeria",
+      "latitude": 6.0258794494576,
+      "longitude": 6.9143869421083,
+      "street": "Nnewi-Onitsha Old Road"
+    },
+    "link": "https://www.facebook.com/306904442655556",
+    "checkins": 45758
+  },
+  {
+    "id": "1932843060271753",
+    "name": "Medica Hospital",
+    "location": {
+      "city": "Male",
+      "country": "Maldives",
+      "latitude": 4.1787020147843,
+      "longitude": 73.509435653687,
+      "street": "Faamudheyri Magu"
+    },
+    "link": "https://www.facebook.com/1932837860272273",
+    "checkins": 487
+  },
+  {
+    "id": "1471632589572816",
+    "name": "University Hospital - University Health System",
+    "location": {
+      "city": "San Antonio",
+      "country": "United States",
+      "latitude": 29.507888776519,
+      "longitude": -98.57750506739,
+      "state": "TX",
+      "street": "4502 Medical Drive",
+      "zip": "78229"
+    },
+    "link": "https://www.facebook.com/161754870560601",
+    "checkins": 159675
+  },
+  {
+    "id": "362735774552399",
+    "name": "Neuro Cardio & Multispeciality Hospital , Biratnagar",
+    "location": {
+      "city": "Biratnagar",
+      "country": "Nepal",
+      "latitude": 26.453226780276,
+      "longitude": 87.28434920311,
+      "street": "Jahada Road , Biratnagar"
+    },
+    "link": "https://www.facebook.com/362735641219079",
+    "checkins": 3184
+  },
+  {
+    "id": "1205575179469172",
+    "name": "CHRISTUS MUGUERZA Hospital Alta Especialidad",
+    "location": {
+      "city": "Monterrey",
+      "country": "Mexico",
+      "latitude": 25.673320146627,
+      "longitude": -100.34846094553,
+      "street": "Av. Hidalgo No. 2525 Pte. Col. Obispado",
+      "zip": "64060"
+    },
+    "link": "https://www.facebook.com/1200983723261651",
+    "checkins": 64883
+  },
+  {
+    "id": "329601613892023",
+    "name": "Farazy Hospital Ltd.",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.76254152511,
+      "longitude": 90.436172783375,
+      "street": "House#15-19, Block-E, Main Road, Banasree, Rampura",
+      "zip": "1219"
+    },
+    "link": "https://www.facebook.com/237290599789792",
+    "checkins": 3621
+  },
+  {
+    "id": "175774609173441",
+    "name": "Hospital Shah Alam",
+    "location": {
+      "city": "Shah Alam",
+      "country": "Malaysia",
+      "latitude": 3.0710530004837,
+      "longitude": 101.48996761504
+    },
+    "link": "https://www.facebook.com/175774595840109",
+    "checkins": 152811
+  },
+  {
+    "id": "100604801519683",
+    "name": "Thammasat Hospital โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 14.0735914,
+      "longitude": 100.6149799
+    },
+    "link": "https://www.facebook.com/100604798186350",
+    "checkins": 7622
+  },
+  {
+    "id": "100373714782728",
+    "name": "Al-Mustafa Hospital",
+    "location": {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "latitude": 24.908272071246,
+      "longitude": 67.0833081007,
+      "street": "ST-1, Block 13-C, Main University Road, Gulshan-e-Iqbal",
+      "zip": "75300"
+    },
+    "link": "https://www.facebook.com/100373544782745",
+    "checkins": 1136
+  },
+  {
+    "id": "479548945417253",
+    "name": "Gunung Maria Catholic Hospital Tomohon",
+    "location": {
+      "city": "Tomohon",
+      "country": "Indonesia",
+      "latitude": 1.32127225287,
+      "longitude": 124.835041364
+    },
+    "link": "https://www.facebook.com/479548932083921",
+    "checkins": 120510
+  },
+  {
+    "id": "1060510770715981",
+    "name": "Chiniot Mother & Child Hospital",
+    "location": {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "latitude": 24.918420773078,
+      "longitude": 67.034525850155,
+      "street": "4-F, 8/7 & 8/8, Nazimabad No. 4",
+      "zip": "74600"
+    },
+    "link": "https://www.facebook.com/1060510734049318",
+    "checkins": 1111
+  },
+  {
+    "id": "232116546972018",
+    "name": "Bangkok Hospital Chiang Mai โรงพยาบาลกรุงเทพเชียงใหม่",
+    "location": {
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "latitude": 18.788658835158,
+      "longitude": 99.026211761048,
+      "street": "รพ.กรุงเทพเชียงใหม่",
+      "zip": "50000"
+    },
+    "link": "https://www.facebook.com/226026727581000",
+    "checkins": 131541
+  },
+  {
+    "id": "637497142997649",
+    "name": "Sanglah Hospital Bali - RSUP Sanglah",
+    "location": {
+      "city": "Denpasar",
+      "country": "Indonesia",
+      "latitude": -8.6754265812533,
+      "longitude": 115.21205959708,
+      "street": "Jalan Diponegoro"
+    },
+    "link": "https://www.facebook.com/273233999423967",
+    "checkins": 216578
+  },
+  {
+    "id": "772687152796508",
+    "name": "Mungunguur hospital Мөнгөн гүүр эмнэлэг",
+    "location": {
+      "city": "Ulaanbaatar",
+      "country": "Mongolia",
+      "latitude": 47.915644311034,
+      "longitude": 106.85396262793,
+      "street": "Сонгино хайрхан дүүрэг 12-р хороо Өнөр хороолол 2-ийн А байр",
+      "zip": "18000"
+    },
+    "link": "https://www.facebook.com/772687119463178",
+    "checkins": 2064
+  },
+  {
+    "id": "165003560877050",
+    "name": "Nayati Hospital Agra",
+    "location": {
+      "city": "Agra",
+      "country": "India",
+      "latitude": 27.212202472239,
+      "longitude": 77.958254814148,
+      "street": "Agra Mathura Highway, NH-19, Near Sikandra",
+      "zip": "282001"
+    },
+    "link": "https://www.facebook.com/165003557543717",
+    "checkins": 976
+  },
+  {
+    "id": "732740650104533",
+    "name": "P. D. Hinduja Hospital",
+    "location": {
+      "city": "Mumbai",
+      "country": "India",
+      "latitude": 19.033241089864,
+      "longitude": 72.838701202018,
+      "street": "P. D. Hinduja Hospital and Medical Research Centre, Veer Savarkar Marg, Mahim",
+      "zip": "400016"
+    },
+    "link": "https://www.facebook.com/219172124794724",
+    "checkins": 10793
+  },
+  {
+    "id": "864815903862334",
+    "name": "مستشفي شفا - Shifa Hospital",
+    "location": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.020770812018,
+      "longitude": 31.435926841961
+    },
+    "link": "https://www.facebook.com/864815757195682",
+    "checkins": 364
+  },
+  {
+    "id": "456051387801726",
+    "name": "Sakura Hospital",
+    "location": {
+      "city": "Sanchaung",
+      "country": "Myanmar",
+      "latitude": 16.796390521042,
+      "longitude": 96.130703185081,
+      "street": "23 Shin Saw Pu Rd., Sanchaung Twp.",
+      "zip": "11111"
+    },
+    "link": "https://www.facebook.com/162604527146415",
+    "checkins": 19029
+  },
+  {
+    "id": "328047600730321",
+    "name": "Bệnh Viện Thẩm Mỹ  Sài Gòn - Saigon Hospital of Cosmetic Surgery",
+    "location": {
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.7754508,
+      "longitude": 106.6972608,
+      "street": "97B NGUYỄN DU, PHƯỜNG BẾN THÀNH, QUẬN 1",
+      "zip": "700000"
+    },
+    "link": "https://www.facebook.com/115172125351204",
+    "checkins": 384
+  },
+  {
+    "id": "591171114231820",
+    "name": "Bass Center for Childhood Cancer At Lucile Packard Children's Hospital",
+    "location": {
+      "city": "Palo Alto",
+      "country": "United States",
+      "latitude": 37.436181976018,
+      "longitude": -122.17474672669,
+      "state": "CA",
+      "zip": "94304"
+    },
+    "link": "https://www.facebook.com/591171104231821",
+    "checkins": 720
+  },
+  {
+    "id": "1534064960000873",
+    "name": "Bharath Hospital",
+    "location": {
+      "city": "Kottayam",
+      "country": "India",
+      "latitude": 9.5893460457613,
+      "longitude": 76.518981456757,
+      "street": "Azad Lane,",
+      "zip": "686001"
+    },
+    "link": "https://www.facebook.com/158155580925158",
+    "checkins": 3925
+  },
+  {
+    "id": "1793801180931615",
+    "name": "Caritas Baby Hospital-مستشفى كاريتاس للأطفال",
+    "location": {
+      "city": "Bethlehem",
+      "country": "Palestine",
+      "latitude": 31.720743304028,
+      "longitude": 35.204908060867,
+      "street": "Caritas Street"
+    },
+    "link": "https://www.facebook.com/1611171609194574",
+    "checkins": 869
+  },
+  {
+    "id": "100187658044894",
+    "name": "Marina Private Hospital مستشفى مارينا الاهلي",
+    "location": {
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.34213,
+      "longitude": 44.39309,
+      "street": "بغداد - الطالبية - شارع صفي الدين الحلي",
+      "zip": "١٠٠٤٥"
+    },
+    "link": "https://www.facebook.com/100187498044910",
+    "checkins": 197
+  },
+  {
+    "id": "2761500727415739",
+    "name": "Ozel Hospital Turkey",
+    "location": {
+      "city": "Tuzla",
+      "country": "Turkey",
+      "latitude": 41.063189006026,
+      "longitude": 28.709850291268,
+      "street": "tahtakale mah",
+      "zip": "34000"
+    },
+    "link": "https://www.facebook.com/1685609405004882",
+    "checkins": 153
+  },
+  {
+    "id": "783618464982863",
+    "name": "Davao Doctors Hospital",
+    "location": {
+      "city": "Davao City",
+      "country": "Philippines",
+      "latitude": 7.0702639105952,
+      "longitude": 125.60457412528,
+      "street": "Davao Doctor's Hospital, 118 E. Quirino Avenue G/F, DDH Oncology Building",
+      "zip": "8000"
+    },
+    "link": "https://www.facebook.com/188510574493658",
+    "checkins": 237247
+  },
+  {
+    "id": "786646678020885",
+    "name": "Evercare Hospital Dhaka",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.810347724117,
+      "longitude": 90.430934429169,
+      "street": "Block: E, Plot: 81, Bashundhara R/A, Dhaka 1229, Bangladesh",
+      "zip": "1229"
+    },
+    "link": "https://www.facebook.com/191992414152984",
+    "checkins": 138894
+  },
+  {
+    "id": "477783589012654",
+    "name": "D H Hospital, ডি এইচ হসপিটাল- কুমিল্লা",
+    "location": {
+      "city": "Comilla",
+      "country": "Bangladesh",
+      "latitude": 23.449721601945,
+      "longitude": 91.180407228415,
+      "street": "Tomsombridge,Comilla(টমছমব্রীজ,কুমিল্লা)",
+      "zip": "3500"
+    },
+    "link": "https://www.facebook.com/477783545679325",
+    "checkins": 198
+  },
+  {
+    "id": "293713424034660",
+    "name": "โรงพยาบาลสินแพทย์ รามอินทรา Synphaet Ramintra Hospital",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.83222,
+      "longitude": 100.66862,
+      "street": "โรงพยาบาลสินแพทย์ รามอินทรา 9/99 ถนนรามอินทรา 52/1 กม.9 คันนายาว",
+      "zip": "10230"
+    },
+    "link": "https://www.facebook.com/293713410701328",
+    "checkins": 450299
+  },
+  {
+    "id": "752257048302383",
+    "name": "Hospital São Lucas da PUCRS",
+    "location": {
+      "city": "Porto Alegre",
+      "country": "Brazil",
+      "latitude": -30.05510981366,
+      "located_in": "576274235749435",
+      "longitude": -51.17583990097,
+      "state": "RS",
+      "street": "Avenida Ipiranga, 6690 - Prédio 60",
+      "zip": "906610-000"
+    },
+    "link": "https://www.facebook.com/752257018302386",
+    "checkins": 225252
+  },
+  {
+    "id": "1066380486823292",
+    "name": "Al Haramain Hospital",
+    "location": {
+      "city": "Sylhet",
+      "country": "Bangladesh",
+      "latitude": 24.889044148188,
+      "longitude": 91.879580934086,
+      "street": "Al Haramain Hospital Pvt. Ltd., Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat.",
+      "zip": "3100"
+    },
+    "link": "https://www.facebook.com/1030937060367635",
+    "checkins": 11610
+  },
+  {
+    "id": "919679931460026",
+    "name": "Agial Hospital - مستشفي اجيال",
+    "location": {
+      "city": "Alexandria",
+      "country": "Egypt",
+      "latitude": 31.229966018893,
+      "longitude": 29.949324786427,
+      "street": "2 Alfred Lyan St., Roushdy"
+    },
+    "link": "https://www.facebook.com/381177195310305",
+    "checkins": 1208
+  },
+  {
+    "id": "1591584024434024",
+    "name": "Hospital Infantil de México Federico Gómez",
+    "location": {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "latitude": 19.41106028597,
+      "longitude": -99.152088238619,
+      "street": "Dr  Márquez 162",
+      "zip": "06720"
+    },
+    "link": "https://www.facebook.com/1532430793682681",
+    "checkins": 73100
+  },
+  {
+    "id": "1489021141154376",
+    "name": "Baguio General Hospital and Medical Center",
+    "location": {
+      "city": "Baguio City",
+      "country": "Philippines",
+      "latitude": 16.401288638396,
+      "longitude": 120.59550524453,
+      "street": "Gov. Pack Road",
+      "zip": "2600"
+    },
+    "link": "https://www.facebook.com/1489021134487710",
+    "checkins": 45458
+  },
+  {
+    "id": "360264104056832",
+    "name": "โรงพยาบาลพิมาย Phimai Hospital.",
+    "location": {
+      "city": "Muang Phimai",
+      "country": "Thailand",
+      "latitude": 15.231100219119,
+      "longitude": 102.49522198462,
+      "street": "ถนน วนปรางค์",
+      "zip": "30110"
+    },
+    "link": "https://www.facebook.com/360264087390167",
+    "checkins": 201688
+  },
+  {
+    "id": "653010351434409",
+    "name": "Hospital Privado de Córdoba",
+    "location": {
+      "city": "Córdoba",
+      "country": "Argentina",
+      "latitude": -31.442189052923,
+      "longitude": -64.199265071841
+    },
+    "link": "https://www.facebook.com/643025805766197",
+    "checkins": 24677
+  },
+  {
+    "id": "132762873880378",
+    "name": "Hospital Sultanah Nur Zahirah, Kuala Terengganu",
+    "location": {
+      "city": "Kuala Terengganu",
+      "country": "Malaysia",
+      "latitude": 5.3253844573877,
+      "longitude": 103.15151975987,
+      "street": "Jalan Sultan Mahmud",
+      "zip": "20400"
+    },
+    "link": "https://www.facebook.com/132114213945244",
+    "checkins": 85581
+  },
+  {
+    "id": "1648120362105318",
+    "name": "Westeye Hospital Sulaimania",
+    "location": {
+      "city": "Slemani",
+      "country": "Iraq",
+      "latitude": 35.556313584362,
+      "longitude": 45.406287358326
+    },
+    "link": "https://www.facebook.com/1424863857764304",
+    "checkins": 678
+  },
+  {
+    "id": "840043876146526",
+    "name": "Henry Ford Hospital",
+    "location": {
+      "city": "Detroit",
+      "country": "United States",
+      "latitude": 42.36761,
+      "longitude": -83.0847,
+      "state": "MI",
+      "street": "2799 W. Grand Blvd.",
+      "zip": "48202"
+    },
+    "link": "https://www.facebook.com/710087269142188",
+    "checkins": 84891
+  },
+  {
+    "id": "10150399251290355",
+    "name": "Barnes-Jewish Hospital",
+    "location": {
+      "city": "St. Louis",
+      "country": "United States",
+      "latitude": 38.636097118886,
+      "longitude": -90.264832552028,
+      "state": "MO"
+    },
+    "link": "https://www.facebook.com/227923830354",
+    "checkins": 249649
+  },
+  {
+    "id": "1606488779564768",
+    "name": "Combined Military Hospital - CMH, Dhaka Cantonment",
+    "location": {
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "latitude": 23.814220087802,
+      "longitude": 90.398821610373,
+      "street": "CMH, Dhaka Cantonment"
+    },
+    "link": "https://www.facebook.com/1606488766231436",
+    "checkins": 33987
+  },
+  {
+    "id": "292336210887372",
+    "name": "โรงพยาบาลสมิติเวชศรีนครินทร์ ( Samitivej Srinakarin Hospital )",
+    "location": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "latitude": 13.748704633258,
+      "longitude": 100.6384536624,
+      "street": "488 ถนน ศรีนครินทร์ สวนหลวง",
+      "zip": "10250"
+    },
+    "link": "https://www.facebook.com/292336200887373",
+    "checkins": 266660
+  },
+  {
+    "id": "473571272693802",
+    "name": "Yangon General Hospital",
+    "location": {
+      "city": "Yangon",
+      "country": "Myanmar",
+      "latitude": 16.778808104477,
+      "longitude": 96.149225049953
+    },
+    "link": "https://www.facebook.com/110397255677874",
+    "checkins": 125169
+  },
+  {
+    "id": "486689408081622",
+    "name": "Kunya hospital, Tudun Bojuwa,kurna",
+    "location": {
+      "city": "Kano",
+      "country": "Nigeria",
+      "latitude": 12.045526063136,
+      "longitude": 8.4880468463128,
+      "street": "Katsina Rd"
+    },
+    "link": "https://www.facebook.com/486689394748290",
+    "checkins": 58116
+  },
+  {
+    "id": "1841297832800518",
+    "name": "Hospital de Emergencias Villa El Salvador",
+    "location": {
+      "city": "Villa el Salvador",
+      "country": "Peru",
+      "latitude": -12.232327265123,
+      "longitude": -76.934382180732,
+      "street": "Av. Pastor Sevilla y 200 Millas",
+      "zip": "15836"
+    },
+    "link": "https://www.facebook.com/1723682567895379",
+    "checkins": 23459
+  }
+]
